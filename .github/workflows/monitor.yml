@@ -2,7 +2,7 @@ name: Sarkari Monitor (24x7 free)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/7 * * * *"
   workflow_dispatch: {}
 
 permissions:
