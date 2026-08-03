@@ -62,7 +62,7 @@ SITES = [
     {"name": "SBI Careers",         "url": "https://bank.sbi/careers"},
     {"name": "RBI Opportunities",   "url": "https://opportunities.rbi.org.in"},
     {"name": "Indian Army",         "url": "https://joinindianarmy.nic.in"},
-    {"name": "Indian Navy",         "url": "https://joinindiannavy.gov.in"},
+    {"name": "UPSSSC",         "url": "https://upsssc.gov.in/News.aspx?id=1"},
     {"name": "Sarkari Result",      "url": "https://www.sarkariresult.com"},
     {"name": "FreeJobAlert",        "url": "https://www.freejobalert.com"},
     {"name": "NIACL/Insurance Jobs", "url": "https://www.nicl.co.in"},
