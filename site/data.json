@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (22,720 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-08-03T10:58:54.712253+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (19,224 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-08-03T10:58:53.202221+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(315 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/?utm_source=freejobalert_homepage&utm_medium=internal_banner&utm_campaign=last_date_reminder&utm_content=homepage_banner",
+    "timestamp": "2026-08-03T10:58:51.719026+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "KPSC KAS Syllabus 2026",
     "link": "https://www.freejobalert.com/articles/kpsc-kas-syllabus-and-exam-pattern-3061256",
@@ -2077,26 +2098,5 @@
     "title": "Admit Card - Assistant Professor (Sociology) Exam - 2025",
     "link": "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP25/Admitcard/Phase3/ASP25Login.aspx?Pid=AP53",
     "timestamp": "2026-08-03T06:32:32.398776+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Admit Card",
-    "title": "Interview Call Letter - Assistant Professor (Commerce) Exam 2024",
-    "link": "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2025/ASP24/CallLetter/login.aspx?Pid=AP25",
-    "timestamp": "2026-08-03T06:32:30.873654+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Vacancy",
-    "title": "Recruitment Advertisement for Assistant Professor (History) Exam 2025 (Higher Education Department - Government of Madhya Pradesh) (Advt. No./14/2025), Dated 30/12/2025",
-    "link": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_History_Exam_2025_Dated_30_12_2025.pdf",
-    "timestamp": "2026-08-03T06:32:29.375655+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Vacancy",
-    "title": "Recruitment Advertisement for Assistant Professor (Physics) Exam 2025 (Higher Education Department - Government of Madhya Pradesh) (Advt. No./23/2025), Dated 30/12/2025",
-    "link": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Physics_Exam_2025_Dated_30_12_2025.pdf",
-    "timestamp": "2026-08-03T06:32:27.871664+00:00"
   }
 ]
