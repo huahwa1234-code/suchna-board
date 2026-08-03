@@ -1,5 +1,12 @@
 [
   {
+    "site": "MPPSC",
+    "category": "Admit Card",
+    "title": "Admit Card - State Service Main Exam 2025",
+    "link": "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2026/Admitcard/SM25Login.aspx",
+    "timestamp": "2026-08-03T15:02:53.501219+00:00"
+  },
+  {
     "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Upcoming Last Date Alerts(318 jobs closing this week)View All →",
@@ -2091,12 +2098,5 @@
     "title": "Syllabus",
     "link": "https://jpsc.gov.in/Syllabus.php",
     "timestamp": "2026-08-03T06:35:21.440021+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Result",
-    "title": "Results",
-    "link": "https://mppsc.mp.gov.in/Results",
-    "timestamp": "2026-08-03T06:33:13.287348+00:00"
   }
 ]
