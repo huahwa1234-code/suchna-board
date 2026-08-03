@@ -97,41 +97,189 @@
     .marquee-inner{ animation:none; padding-left:12px; }
   }
 
-  /* ---------- Service banner ---------- */
-  .service-banner{
-    background:#FFFBEA;
-    border-top:2px solid #006600;
-    border-bottom:2px solid #006600;
-    padding:8px 10px;
-    text-align:center;
+  /* ---------- Daily Check-in & Wallet Widget ---------- */
+  .wallet-widget {
+    background: #000;
+    border-bottom: 2px solid #CC0000;
+    color: #fff;
+    padding: 8px 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12.5px;
   }
-  .service-inner{
-    display:flex;
-    flex-wrap:wrap;
-    gap:10px;
-    justify-content:center;
-    align-items:center;
+  .wallet-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
   }
-  .service-text{
-    font-size:12.5px;
-    color:#222;
+  .wallet-info span {
+    font-weight: bold;
+    color: #00ffcc;
   }
-  .service-text strong{ color:#006600; }
-  .service-btn{
-    background:#006600;
-    color:#fff !important;
-    text-decoration:none;
-    font-weight:bold;
-    font-size:12.5px;
-    padding:6px 14px;
-    border-radius:3px;
-    display:inline-block;
+  .checkin-btn {
+    background: #CC0000;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 3px;
+    font-size: 12px;
   }
-  .service-btn:hover{ background:#004d00; }
-  .service-disclaimer{
-    font-size:10px;
-    color:#888;
-    margin-top:4px;
+  .checkin-btn:hover {
+    background: #e60000;
+  }
+  .checkin-btn:disabled {
+    background: #555;
+    cursor: not-allowed;
+  }
+
+  /* ---------- Interstitial Ad Modal ---------- */
+  .ad-modal {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.85);
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+  }
+  .ad-content {
+    background: #fff;
+    color: #000;
+    width: 90%;
+    max-width: 400px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 6px;
+    position: relative;
+    border: 3px solid #CC0000;
+  }
+  .ad-header {
+    font-size: 11px;
+    color: #666;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .ad-body h3 {
+    color: #CC0000;
+    margin-top: 0;
+    font-size: 20px;
+  }
+  .ad-body p {
+    font-size: 13px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  .ad-timer {
+    font-weight: bold;
+    font-size: 14px;
+    color: #003399;
+  }
+
+  /* ---------- Premium Full-Click CTA Banner ---------- */
+  .premium-cta-wrap {
+    display: block;
+    text-decoration: none;
+    background: linear-gradient(135deg, #003399 0%, #001a4d 100%);
+    margin: 15px auto;
+    max-width: 1000px;
+    border-radius: 8px;
+    border: 1px solid #0044cc;
+    box-shadow: 0 4px 10px rgba(0, 51, 153, 0.2);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .premium-cta-wrap:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 51, 153, 0.35);
+  }
+
+  .cta-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 20px;
+    gap: 15px;
+  }
+
+  .cta-text-section {
+    flex: 1;
+  }
+
+  .cta-badge {
+    display: inline-block;
+    background: #FFD700;
+    color: #000;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    letter-spacing: 0.5px;
+  }
+
+  .cta-headline {
+    margin: 0 0 4px 0;
+    font-size: 17px;
+    font-weight: bold;
+    color: #ffffff;
+  }
+
+  .cta-subtext {
+    margin: 0;
+    font-size: 12.5px;
+    color: #b3ccff;
+  }
+
+  .cta-action-section {
+    flex-shrink: 0;
+  }
+
+  .cta-fake-btn {
+    display: inline-block;
+    background: #CC0000;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px 24px;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(204, 0, 0, 0.3);
+    transition: background 0.2s;
+  }
+
+  .premium-cta-wrap:hover .cta-fake-btn {
+    background: #e60000;
+  }
+
+  .cta-footer {
+    background: rgba(0, 0, 0, 0.25);
+    text-align: center;
+    padding: 7px 10px;
+    font-size: 10px;
+    color: #8ab3ff;
+  }
+
+  @media (max-width: 600px) {
+    .cta-inner {
+      flex-direction: column;
+      text-align: center;
+      padding: 16px 14px;
+    }
+    .cta-action-section {
+      width: 100%;
+      margin-top: 5px;
+    }
+    .cta-fake-btn {
+      display: block;
+      width: 100%;
+      box-sizing: border-box;
+    }
   }
 
   /* ---------- Layout ---------- */
@@ -269,6 +417,30 @@
 
 <div class="topbar">STATUS: &nbsp;|&nbsp;</div>
 
+<!-- Wallet & Daily Check-in Bar -->
+<div class="wallet-widget">
+  <div class="wallet-info">
+    <div>Ankur Meena</div>
+    <div>Wallet: <span id="wallet-balance">0</span> Points</div>
+  </div>
+  <button id="daily-checkin-btn" class="checkin-btn" onclick="startDailyCheckin()">Daily Check-in (+5 pts)</button>
+</div>
+
+<!-- Interstitial Ad Modal -->
+<div id="ad-modal" class="ad-modal">
+  <div class="ad-content">
+    <div class="ad-header">
+      <span>Sponsored Ad</span>
+      <span id="ad-timer-text" class="ad-timer">Ad closing in 5s</span>
+    </div>
+    <div class="ad-body">
+      <h3>SetuDesk - Form Filling Services</h3>
+      <p>Need help filling your Sarkari form accurately? Let experts handle it for just ₹70!</p>
+      <a href="https://setudesk.netlify.app" target="_blank" rel="noopener" style="color:#0000CC; font-weight:bold;">Visit SetuDesk Official Service</a>
+    </div>
+  </div>
+</div>
+
 <header class="masthead">
   <h1>Suchna<span>Board</span>.com</h1>
   <div class="tag">सरकारी नौकरी | परिणाम | एडमिट कार्ड | उत्तर कुंजी — सब एक जगह</div>
@@ -285,31 +457,31 @@
   <div class="marquee-inner" id="marquee"><span>Loading latest updates…</span></div>
 </div>
 
-<div class="service-banner">
-  <div class="service-inner">
-    <div class="service-text">
-      <strong>Apna form khud bharwana hai?</strong>
-      Sirf ₹70 me form fill करवाओ
+<!-- Premium Full-Click CTA Banner -->
+<a href="https://setudesk.netlify.app" target="_blank" rel="noopener" class="premium-cta-wrap">
+  <div class="cta-inner">
+    <div class="cta-text-section">
+      <span class="cta-badge">⭐ Expert Service</span>
+      <h3 class="cta-headline">Sarkari Form Bharwao Sirf ₹70 Mein</h3>
+      <p class="cta-subtext">Bina kisi galti ke, expert team dwara apna form fill karwayein.</p>
     </div>
-    <a class="service-btn" href="https://setudesk.netlify.app" target="_blank" rel="noopener">Form Bharwao — ₹70</a>
+    <div class="cta-action-section">
+      <span class="cta-fake-btn">Apply Now &rarr;</span>
+    </div>
   </div>
-  <div class="service-disclaimer">.</div>
-</div>
+  <div class="cta-footer">
+    *Ye ek third-party paid assistance service hai. Payment aur form details apni zimmedari par share karein.
+  </div>
+</a>
 
 <div class="wrap">
-
-  <div class="updated-line" id="updated-line">Last updated: —</div>
+  <div class="updated-line" id="updated-line">Data load ho raha hai...</div>
   <div class="grid" id="board"></div>
 </div>
 
 <footer>
-  .
   <div class="disc">Disclaimer: Links point to third-party sources. Always verify details on the official website before applying.</div>
 </footer>
-
-<script id="notif-data" type="application/json">
-__NOTIFICATIONS_JSON__
-</script>
 
 <script>
 const CATEGORY_CLASS = {
@@ -324,16 +496,88 @@ const CATEGORY_CLASS = {
 const CATEGORY_ORDER = ["Result", "Admit Card", "Vacancy", "Answer Key", "Syllabus", "Admission", "General Update"];
 
 let raw = [];
-try {
-  raw = JSON.parse(document.getElementById('notif-data').textContent.trim());
-} catch(e) { raw = []; }
-
-raw.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp));
+let currentFilter = "All";
+let searchTerm = "";
+const perCatLimit = {};
 
 const board = document.getElementById('board');
 const navstrip = document.getElementById('navstrip');
 const marquee = document.getElementById('marquee');
 const updatedLine = document.getElementById('updated-line');
+const searchBox = document.getElementById('search-box');
+
+// ---------- YAHA APNA API URL YA JSON FILE KA LINK DAALEIN ----------
+const DATA_URL = 'data.json'; 
+
+// Live Fetch Data Function
+async function fetchNotifications() {
+  try {
+    const response = await fetch(DATA_URL);
+    if (!response.ok) throw new Error("Network response failed");
+    
+    raw = await response.json();
+    raw.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp));
+    
+    if (raw.length > 0){
+      updatedLine.textContent = "Last updated: " + new Date(raw[0].timestamp).toLocaleString();
+    }
+    
+    buildNav();
+    buildMarquee();
+    render("All");
+  } catch (error) {
+    console.error("Fetch Error:", error);
+    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Data fetch karne mein error aayi. Kripya apna JSON URL check karein.</div></div>';
+    marquee.innerHTML = '<span>Network Error: Data nahi mil saka.</span>';
+    updatedLine.textContent = "Last updated: Failed";
+  }
+}
+
+// Wallet System State
+let walletPoints = parseInt(localStorage.getItem('user_wallet_points')) || 0;
+const walletBalanceEl = document.getElementById('wallet-balance');
+const checkinBtn = document.getElementById('daily-checkin-btn');
+
+function updateWalletDisplay() {
+  walletBalanceEl.textContent = walletPoints;
+  localStorage.setItem('user_wallet_points', walletPoints);
+
+  const lastCheckin = localStorage.getItem('last_checkin_date');
+  const today = new Date().toDateString();
+  if (lastCheckin === today) {
+    checkinBtn.textContent = "Checked-in Today";
+    checkinBtn.disabled = true;
+  }
+}
+updateWalletDisplay();
+
+function startDailyCheckin() {
+  const lastCheckin = localStorage.getItem('last_checkin_date');
+  const today = new Date().toDateString();
+  if (lastCheckin === today) return;
+
+  const modal = document.getElementById('ad-modal');
+  const timerText = document.getElementById('ad-timer-text');
+  modal.style.display = 'flex';
+
+  let countdown = 5;
+  timerText.textContent = `Ad closing in ${countdown}s`;
+
+  const interval = setInterval(() => {
+    countdown--;
+    if (countdown > 0) {
+      timerText.textContent = `Ad closing in ${countdown}s`;
+    } else {
+      clearInterval(interval);
+      modal.style.display = 'none';
+      
+      walletPoints += 5;
+      localStorage.setItem('last_checkin_date', today);
+      updateWalletDisplay();
+      alert("Success! 5 points added to your wallet for daily check-in.");
+    }
+  }, 1000);
+}
 
 function timeAgo(iso){
   const diffMs = Date.now() - new Date(iso).getTime();
@@ -358,16 +602,11 @@ function groupByCategory(items){
   return g;
 }
 
-let currentFilter = "All";
-let searchTerm = "";
-const perCatLimit = {};
-const searchBox = document.getElementById('search-box');
-
 function render(filterCat){
   if (filterCat) currentFilter = filterCat;
   board.innerHTML = "";
   if (raw.length === 0){
-    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Abhi tak koi update nahi aayi. <br>python monitor.py chalao naye notifications ke liye.</div></div>';
+    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Abhi tak koi update nahi aayi.</div></div>';
     return;
   }
   let filtered = (!currentFilter || currentFilter === "All") ? raw : raw.filter(n => n.category === currentFilter);
@@ -438,13 +677,9 @@ function buildNav(){
 }
 
 function buildMarquee(){
-  if (raw.length === 0){ marquee.innerHTML = '<span>Koi update nahi mila abhi tak — pehla check cycle chalao.</span>'; return; }
+  if (raw.length === 0){ marquee.innerHTML = '<span>Koi update nahi mila abhi tak.</span>'; return; }
   const latest = raw.slice(0, 15);
   marquee.innerHTML = latest.map(n => `<span><b>[${n.category}]</b> ${n.title} - ${n.site}</span>`).join('');
-}
-
-if (raw.length > 0){
-  updatedLine.textContent = "Last updated: " + new Date(raw[0].timestamp).toLocaleString();
 }
 
 searchBox.addEventListener('input', () => {
@@ -453,9 +688,9 @@ searchBox.addEventListener('input', () => {
   render();
 });
 
-buildNav();
-buildMarquee();
-render("All");
+// Initialize by fetching data
+fetchNotifications();
+
 </script>
 
 </body>
