@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Suchna Board - Sarkari Naukri, Result, Admit Card, Answer Key</title>
+<style>
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:#e9e9e9;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:13px;
+    color:#000;
+  }
+  a{ color:#0000CC; text-decoration:underline; }
+  a:visited{ color:#551A8B; }
+  a:hover{ color:#CC0000; }
+
+  /* ---------- Top bar ---------- */
+  .topbar{
+    background:#CC0000;
+    color:#fff;
+    font-size:11px;
+    padding:3px 10px;
+    text-align:right;
+    font-weight:bold;
+  }
+
+  /* ---------- Header ---------- */
+  header.masthead{
+    background:#fff;
+    border-bottom:4px solid #CC0000;
+    padding:10px 14px 8px;
+    text-align:center;
+  }
+  header.masthead h1{
+    margin:0;
+    font-size:30px;
+    font-family:Georgia, 'Times New Roman', serif;
+    color:#CC0000;
+    letter-spacing:-0.5px;
+  }
+  header.masthead h1 span{ color:#003399; }
+  header.masthead .tag{
+    font-size:12px;
+    color:#333;
+    font-weight:bold;
+  }
+
+  /* ---------- Nav strip ---------- */
+  .navstrip{
+    background:#003399;
+    padding:0;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+  .navstrip button{
+    background:#003399;
+    color:#fff;
+    border:none;
+    border-right:1px solid #2255bb;
+    padding:8px 14px;
+    font-size:12px;
+    font-weight:bold;
+    cursor:pointer;
+    font-family:inherit;
+  }
+  .navstrip button:hover, .navstrip button.active{
+    background:#CC0000;
+  }
+
+  /* ---------- Marquee ticker ---------- */
+  .marquee-wrap{
+    background:#FFF3C4;
+    border-top:1px solid #e0c060;
+    border-bottom:1px solid #e0c060;
+    padding:5px 0;
+    overflow:hidden;
+    white-space:nowrap;
+  }
+  .marquee-wrap b{ color:#CC0000; padding-left:10px; }
+  .marquee-inner{
+    display:inline-block;
+    padding-left:100%;
+    animation:scrollleft 45s linear infinite;
+    font-size:12.5px;
+  }
+  .marquee-inner span{ margin-right:40px; color:#111; }
+  .marquee-inner span b{ color:#CC0000; }
+  @keyframes scrollleft{
+    0%{ transform:translateX(0); }
+    100%{ transform:translateX(-100%); }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .marquee-inner{ animation:none; padding-left:12px; }
+  }
+
+  /* ---------- Service banner ---------- */
+  .service-banner{
+    background:#FFFBEA;
+    border-top:2px solid #006600;
+    border-bottom:2px solid #006600;
+    padding:8px 10px;
+    text-align:center;
+  }
+  .service-inner{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    justify-content:center;
+    align-items:center;
+  }
+  .service-text{
+    font-size:12.5px;
+    color:#222;
+  }
+  .service-text strong{ color:#006600; }
+  .service-btn{
+    background:#006600;
+    color:#fff !important;
+    text-decoration:none;
+    font-weight:bold;
+    font-size:12.5px;
+    padding:6px 14px;
+    border-radius:3px;
+    display:inline-block;
+  }
+  .service-btn:hover{ background:#004d00; }
+  .service-disclaimer{
+    font-size:10px;
+    color:#888;
+    margin-top:4px;
+  }
+
+  /* ---------- Layout ---------- */
+  .wrap{
+    max-width:1000px;
+    margin:10px auto;
+    padding:0 8px;
+  }
+  .updated-line{
+    text-align:center;
+    font-size:11px;
+    color:#555;
+    margin:6px 0 10px;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:10px;
+  }
+  @media (max-width:680px){
+    .grid{ grid-template-columns:1fr; }
+  }
+
+  .box{
+    background:#fff;
+    border:1px solid #999;
+  }
+  .box-head{
+    background:#003399;
+    color:#fff;
+    font-weight:bold;
+    font-size:13px;
+    padding:5px 10px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+  .box-head.c-result{ background:#CC0000; }
+  .box-head.c-admit{ background:#003399; }
+  .box-head.c-vacancy{ background:#006600; }
+  .box-head.c-answer{ background:#996600; }
+  .box-head.c-syllabus{ background:#555555; }
+  .box-head.c-admission{ background:#7a1f7a; }
+  .box-head .n{ background:rgba(255,255,255,.25); border-radius:3px; padding:0 6px; font-size:11px; }
+
+  ul.itemlist{
+    list-style:none;
+    margin:0;
+    padding:0;
+  }
+  ul.itemlist li{
+    padding:6px 10px;
+    border-bottom:1px dotted #ccc;
+    font-size:12.5px;
+    line-height:1.4;
+  }
+  ul.itemlist li:last-child{ border-bottom:none; }
+  ul.itemlist li:nth-child(odd){ background:#f7f7f7; }
+  .new-tag{
+    color:#fff;
+    background:#CC0000;
+    font-size:9px;
+    font-weight:bold;
+    padding:1px 4px;
+    margin-right:5px;
+    vertical-align:middle;
+    border-radius:2px;
+  }
+  .src-line{
+    display:block;
+    font-size:10.5px;
+    color:#666;
+    margin-top:2px;
+  }
+  .src-line b{ color:#003399; }
+
+  .empty-box{
+    padding:30px 14px;
+    text-align:center;
+    color:#777;
+    font-size:12.5px;
+  }
+
+  footer{
+    text-align:center;
+    font-size:11px;
+    color:#555;
+    padding:14px;
+    border-top:2px solid #CC0000;
+    background:#fff;
+    margin-top:14px;
+  }
+  footer .disc{
+    max-width:800px;
+    margin:6px auto 0;
+    color:#888;
+    font-size:10px;
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">STATUS: LIVE MONITOR &nbsp;|&nbsp; AUTO-REFRESHED EVERY CHECK CYCLE</div>
+
+<header class="masthead">
+  <h1>Suchna<span>Board</span>.com</h1>
+  <div class="tag">सरकारी नौकरी | परिणाम | एडमिट कार्ड | उत्तर कुंजी — सब एक जगह</div>
+</header>
+
+<div class="navstrip" id="navstrip"></div>
+
+<div class="marquee-wrap">
+  <b>NEW:</b>
+  <div class="marquee-inner" id="marquee"><span>Loading latest updates…</span></div>
+</div>
+
+<div class="service-banner">
+  <div class="service-inner">
+    <div class="service-text">
+      <strong>Apna form khud bharwana hai?</strong>
+      Sirf ₹70 me form fill करवाओ — CSC se sasta.
+    </div>
+    <a class="service-btn" href="https://setudesk.netlify.app" target="_blank" rel="noopener">Form Bharwao — ₹70</a>
+  </div>
+  <div class="service-disclaimer">Ye ek third-party paid assistance service hai, koi sarkari/official sewa nahi. Payment aur form details apni zimmedari par share karein.</div>
+</div>
+
+<div class="wrap">
+
+  <div class="updated-line" id="updated-line">Last updated: —</div>
+  <div class="grid" id="board"></div>
+</div>
+
+<footer>
+  SuchnaBoard.com is an automated aggregator generated by your own monitor script.
+  <div class="disc">Disclaimer: Links point to third-party sources. Always verify details on the official website before applying.</div>
+</footer>
+
+<script id="notif-data" type="application/json">
+__NOTIFICATIONS_JSON__
+</script>
+
+<script>
+const CATEGORY_CLASS = {
+  "Admit Card": "c-admit",
+  "Result": "c-result",
+  "Vacancy": "c-vacancy",
+  "Answer Key": "c-answer",
+  "Syllabus": "c-syllabus",
+  "Admission": "c-admission",
+  "General Update": "c-syllabus"
+};
+const CATEGORY_ORDER = ["Result", "Admit Card", "Vacancy", "Answer Key", "Syllabus", "Admission", "General Update"];
+
+let raw = [];
+try {
+  raw = JSON.parse(document.getElementById('notif-data').textContent.trim());
+} catch(e) { raw = []; }
+
+raw.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp));
+
+const board = document.getElementById('board');
+const navstrip = document.getElementById('navstrip');
+const marquee = document.getElementById('marquee');
+const updatedLine = document.getElementById('updated-line');
+
+function timeAgo(iso){
+  const diffMs = Date.now() - new Date(iso).getTime();
+  const mins = Math.floor(diffMs/60000);
+  if (mins < 1) return "abhi";
+  if (mins < 60) return mins + " min pehle";
+  const hrs = Math.floor(mins/60);
+  if (hrs < 24) return hrs + " ghante pehle";
+  return Math.floor(hrs/24) + " din pehle";
+}
+
+function isFresh(ts){
+  return (Date.now() - new Date(ts).getTime()) < 24*60*60*1000;
+}
+
+function groupByCategory(items){
+  const g = {};
+  items.forEach(n => {
+    if (!g[n.category]) g[n.category] = [];
+    g[n.category].push(n);
+  });
+  return g;
+}
+
+function render(filterCat){
+  board.innerHTML = "";
+  if (raw.length === 0){
+    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Abhi tak koi update nahi aayi. <br>python monitor.py chalao naye notifications ke liye.</div></div>';
+    return;
+  }
+  const filtered = (!filterCat || filterCat === "All") ? raw : raw.filter(n => n.category === filterCat);
+  const grouped = groupByCategory(filtered);
+  const cats = CATEGORY_ORDER.filter(c => grouped[c] && grouped[c].length);
+
+  if (cats.length === 0){
+    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Is category me abhi koi notice nahi hai.</div></div>';
+    return;
+  }
+
+  cats.forEach(cat => {
+    const items = grouped[cat].slice(0, 25);
+    const box = document.createElement('div');
+    box.className = 'box';
+    const cls = CATEGORY_CLASS[cat] || '';
+    box.innerHTML = `
+      <div class="box-head ${cls}"><span>${cat}</span><span class="n">${grouped[cat].length}</span></div>
+      <ul class="itemlist">
+        ${items.map(n => `
+          <li>
+            ${isFresh(n.timestamp) ? '<span class="new-tag">NEW</span>' : ''}<a href="${n.link}" target="_blank" rel="noopener">${n.title}</a>
+            <span class="src-line"><b>${n.site}</b> &middot; ${timeAgo(n.timestamp)}</span>
+          </li>
+        `).join('')}
+      </ul>
+    `;
+    board.appendChild(box);
+  });
+}
+
+function buildNav(){
+  const cats = ["All", ...CATEGORY_ORDER.filter(c => raw.some(n => n.category === c))];
+  navstrip.innerHTML = "";
+  cats.forEach((cat, i) => {
+    const btn = document.createElement('button');
+    btn.textContent = cat;
+    if (i === 0) btn.classList.add('active');
+    btn.onclick = () => {
+      document.querySelectorAll('.navstrip button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      render(cat);
+    };
+    navstrip.appendChild(btn);
+  });
+}
+
+function buildMarquee(){
+  if (raw.length === 0){ marquee.innerHTML = '<span>Koi update nahi mila abhi tak — pehla check cycle chalao.</span>'; return; }
+  const latest = raw.slice(0, 15);
+  marquee.innerHTML = latest.map(n => `<span><b>[${n.category}]</b> ${n.title} - ${n.site}</span>`).join('');
+}
+
+if (raw.length > 0){
+  updatedLine.textContent = "Last updated: " + new Date(raw[0].timestamp).toLocaleString();
+}
+
+buildNav();
+buildMarquee();
+render("All");
+</script>
+
+</body>
+</html>
