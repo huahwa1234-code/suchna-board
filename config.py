@@ -56,7 +56,7 @@ SITES = [
     {"name": "BPSC (Bihar)",        "url": "https://bpsc.bih.nic.in"},
     {"name": "HPSC (Haryana)",      "url": "https://hpsc.gov.in"},
     {"name": "JPSC (Jharkhand)",    "url": "https://jpsc.gov.in"},
-    {"name": "KPSC (Karnataka)",    "url": "https://kpsc.kar.nic.in"},
+    {"name": "UPSSSC",    "url": "https://upsssc.gov.in/AllNotifications.aspx"},
     {"name": "GPSC (Gujarat)",      "url": "https://gpsc.gujarat.gov.in"},
     {"name": "Employment News",     "url": "https://www.employmentnews.gov.in"},
     {"name": "SBI Careers",         "url": "https://bank.sbi/careers"},
