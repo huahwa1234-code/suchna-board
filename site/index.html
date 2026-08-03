@@ -267,7 +267,7 @@
 </head>
 <body>
 
-<div class="topbar">STATUS: LIVE MONITOR &nbsp;|&nbsp; AUTO-REFRESHED EVERY CHECK CYCLE</div>
+<div class="topbar">STATUS:  &nbsp;|&nbsp;  </div>
 
 <header class="masthead">
   <h1>Suchna<span>Board</span>.com</h1>
@@ -277,7 +277,7 @@
 <div class="navstrip" id="navstrip"></div>
 
 <div class="search-wrap">
-  <input type="text" id="search-box" placeholder="Is category me search karo (jaise: admit card, result naam)…" autocomplete="off">
+  <input type="text" id="search-box" placeholder="search here…" autocomplete="off">
 </div>
 
 <div class="marquee-wrap">
@@ -288,8 +288,8 @@
 <div class="service-banner">
   <div class="service-inner">
     <div class="service-text">
-      <strong>Apna form khud bharwana hai?</strong>
-      Sirf ₹70 me form fill करवाओ — CSC se sasta.
+      <strong>Apna form khud bharwana hai</strong>
+      Sirf ₹70 me form fill करवाओ   .
     </div>
     <a class="service-btn" href="https://setudesk.netlify.app" target="_blank" rel="noopener">Form Bharwao — ₹70</a>
   </div>
@@ -367,7 +367,7 @@ function render(filterCat){
   if (filterCat) currentFilter = filterCat;
   board.innerHTML = "";
   if (raw.length === 0){
-    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Abhi tak koi update nahi aayi. <br>python monitor.py chalao naye notifications ke liye.</div></div>';
+    board.innerHTML = '<div class="box" style="grid-column:1/-1;"><div class="empty-box">Abhi tak koi update nahi aayi. <br> .</div></div>';
     return;
   }
   let filtered = (!currentFilter || currentFilter === "All") ? raw : raw.filter(n => n.category === currentFilter);
