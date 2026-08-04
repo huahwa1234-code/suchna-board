@@ -1,6 +1,55 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admission",
+    "title": "MCC NEET UG 2026 Counselling Registration",
+    "link": "https://www.freejobalert.com/articles/mcc-neet-ug-2026-counselling-registration-direct-link-to-apply-3061340",
+    "timestamp": "2026-08-04T06:36:19.794419+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "Hyderabad University UG Merit List 2026 Out",
+    "link": "https://www.freejobalert.com/articles/hyderabad-university-ug-merit-list-2026-out-check-cuet-ug-selection-list-3061342",
+    "timestamp": "2026-08-04T06:36:18.199079+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "TN SSLC Supplementary Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/tn-sslc-supplementary-result-2026-out-download-tn-10th-marksheet-3061339",
+    "timestamp": "2026-08-04T06:36:16.582684+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (22,485 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-08-04T06:36:14.983639+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (16,040 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-04T06:36:13.195609+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (18,341 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-04T06:36:11.583812+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (5,791 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-08-04T06:36:09.941059+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Gyan Sahayak Merit List 2026 Out",
     "link": "https://www.freejobalert.com/articles/gyan-sahayak-merit-list-2026-check-rank-list-3061333",
@@ -2049,54 +2098,5 @@
     "title": "Recruitment of Assistant Professors (Regular) in Universities of Jharkhand Advt.No. 04/2018",
     "link": "https://jpsc.gov.in/exam_files.php?id=75",
     "timestamp": "2026-08-03T06:36:19.253673+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Assistant Professors (Backlog) in Universities of Jharkhand Advt.No. 05/2018",
-    "link": "https://jpsc.gov.in/exam_files.php?id=76",
-    "timestamp": "2026-08-03T06:36:17.741705+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of 6th limited Deputy Collector, Advt. No.11/2018",
-    "link": "https://jpsc.gov.in/exam_files.php?id=82",
-    "timestamp": "2026-08-03T06:36:16.218211+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Professor, Associate Professor, Assistant Professor and Assistant Librarian in Jharkhand Raksha Shakti University, Ranchi, Advt. No. 02/2021",
-    "link": "https://jpsc.gov.in/exam_files.php?id=99",
-    "timestamp": "2026-08-03T06:36:14.721463+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Ayurvedic Medical Officer (Regular),Advt.No.-09/2022",
-    "link": "https://jpsc.gov.in/exam_files.php?id=118",
-    "timestamp": "2026-08-03T06:36:13.214810+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Homeopathic Medical Officer (Regular),Advt.No.-10/2022",
-    "link": "https://jpsc.gov.in/exam_files.php?id=119",
-    "timestamp": "2026-08-03T06:36:11.700307+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Unani Medical Officer (Regular),Advt.No.-11/2022",
-    "link": "https://jpsc.gov.in/exam_files.php?id=120",
-    "timestamp": "2026-08-03T06:36:10.191123+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of university Professor-cum-chief Scientist (Regular),Advt.No.-10/2023",
-    "link": "https://jpsc.gov.in/exam_files.php?id=133",
-    "timestamp": "2026-08-03T06:36:08.534563+00:00"
   }
 ]
