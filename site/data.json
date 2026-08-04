@@ -1,6 +1,62 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Register for Job Alerts",
+    "link": "https://user.freejobalert.com/register",
+    "timestamp": "2026-08-04T07:06:14.275362+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "Munger University UG Semester 3 Result 2024-28",
+    "link": "https://www.freejobalert.com/articles/munger-university-ug-semester-3-result-2024-28-download-link-steps-and-details-3061348",
+    "timestamp": "2026-08-04T07:06:12.618578+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "Munger University UG Semester 3 Result 202428",
+    "link": "https://www.freejobalert.com/articles/munger-university-ug-semester-3-result-2024-28-download-link-steps-and-details-3061348",
+    "timestamp": "2026-08-04T07:06:10.930242+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Answer Key",
+    "title": "PSPCL JE Electrical Answer Key 2026",
+    "link": "https://www.freejobalert.com/articles/pspcl-je-electrical-answer-key-2026-3061353",
+    "timestamp": "2026-08-04T07:06:09.257794+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (817 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-08-04T07:06:07.552067+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (16,049 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-04T07:06:05.878918+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (18,352 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-04T07:06:04.178562+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (24,550 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-08-04T07:06:02.491729+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "MCC NEET UG 2026 Counselling Registration",
     "link": "https://www.freejobalert.com/articles/mcc-neet-ug-2026-counselling-registration-direct-link-to-apply-3061340",
@@ -2042,61 +2098,5 @@
     "title": "Recruitment Results & Archive",
     "link": "https://bank.sbi/web/careers/recruitment-results-archive",
     "timestamp": "2026-08-03T06:37:19.305465+00:00"
-  },
-  {
-    "site": "SBI Careers",
-    "category": "Result",
-    "title": "Recruitment Results",
-    "link": "https://bank.sbi/web/careers/recruitment-results",
-    "timestamp": "2026-08-03T06:37:17.803012+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Professors in all universities of Jharkhand, Advt No.-40/2016",
-    "link": "https://jpsc.gov.in/exam_files.php?id=39",
-    "timestamp": "2026-08-03T06:36:28.335255+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Associate Professors in all universities of Jharkhand, Advt No.-41/2016",
-    "link": "https://jpsc.gov.in/exam_files.php?id=40",
-    "timestamp": "2026-08-03T06:36:26.814352+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of University Professor-Cum-Chief Scientist in Ranchi Veterinary College Under Birsa Agricultural University, Advt. No. 08/2017",
-    "link": "https://jpsc.gov.in/exam_files.php?id=51",
-    "timestamp": "2026-08-03T06:36:25.284282+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Dean in Ranchi Agriculture College Under Birsa Agricultural University, Advt. No. 18/2017.",
-    "link": "https://jpsc.gov.in/exam_files.php?id=61",
-    "timestamp": "2026-08-03T06:36:23.772503+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Associate Professor cum Senior Scientist in Ranchi Agriculture College Under Birsa Agricultural University, Advt. No. 19/2017",
-    "link": "https://jpsc.gov.in/exam_files.php?id=62",
-    "timestamp": "2026-08-03T06:36:22.280436+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Associate Professor-Cum-Senior Scientist in Ranchi Veterinary College Under Birsa Agricultural University, Advt. No.23/2017",
-    "link": "https://jpsc.gov.in/exam_files.php?id=66",
-    "timestamp": "2026-08-03T06:36:20.756008+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Recruitment of Assistant Professors (Regular) in Universities of Jharkhand Advt.No. 04/2018",
-    "link": "https://jpsc.gov.in/exam_files.php?id=75",
-    "timestamp": "2026-08-03T06:36:19.253673+00:00"
   }
 ]
