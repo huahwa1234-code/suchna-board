@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "WB JECA 2026 Result Out",
+    "link": "https://www.freejobalert.com/articles/wb-jeca-2026-result-out-download-rank-card-online-3061363",
+    "timestamp": "2026-08-04T07:36:17.307007+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "APSSB CGLE Admit Card 2026",
     "link": "https://www.freejobalert.com/articles/apssb-cgle-admit-card-2026-3061359",
@@ -2091,12 +2098,5 @@
     "title": "RECRUITMENT ARCHIVE",
     "link": "https://bank.sbi/web/careers/recruitment-results-archive",
     "timestamp": "2026-08-03T06:37:22.319413+00:00"
-  },
-  {
-    "site": "SBI Careers",
-    "category": "Result",
-    "title": "RECRUITMENT RESULTS",
-    "link": "https://bank.sbi/web/careers/recruitment-results",
-    "timestamp": "2026-08-03T06:37:20.808353+00:00"
   }
 ]
