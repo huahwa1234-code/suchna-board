@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "APSSB CGLE Admit Card 2026",
+    "link": "https://www.freejobalert.com/articles/apssb-cgle-admit-card-2026-3061359",
+    "timestamp": "2026-08-04T07:21:05.829377+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Register for Job Alerts",
     "link": "https://user.freejobalert.com/register",
@@ -2091,12 +2098,5 @@
     "title": "RECRUITMENT RESULTS",
     "link": "https://bank.sbi/web/careers/recruitment-results",
     "timestamp": "2026-08-03T06:37:20.808353+00:00"
-  },
-  {
-    "site": "SBI Careers",
-    "category": "Result",
-    "title": "Recruitment Results & Archive",
-    "link": "https://bank.sbi/web/careers/recruitment-results-archive",
-    "timestamp": "2026-08-03T06:37:19.305465+00:00"
   }
 ]
