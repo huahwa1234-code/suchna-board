@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "CGPSC SI Prelims Result 2026",
+    "link": "https://www.freejobalert.com/articles/cgpsc-si-prelims-result-2026-3061517",
+    "timestamp": "2026-08-05T07:24:51.265522+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (821 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-08-05T07:24:49.760793+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "HPSC Senior Manager & Manager Syllabus 2026",
     "link": "https://www.freejobalert.com/articles/hpsc-manager-and-senior-manager-syllabus-3061506",
@@ -2084,19 +2098,5 @@
     "title": "CG Assistant Teacher Syllabus 2026",
     "link": "https://www.freejobalert.com/articles/cg-assistant-teacher-syllabus-and-exam-pattern-3060321",
     "timestamp": "2026-08-03T06:40:51.501596+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Syllabus",
-    "title": "Maharashtra Talathi Syllabus 2026",
-    "link": "https://www.freejobalert.com/articles/maharashtra-talathi-syllabus-3060312",
-    "timestamp": "2026-08-03T06:40:49.989801+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Syllabus",
-    "title": "OSSSC Pharmacist Syllabus 2026",
-    "link": "https://www.freejobalert.com/articles/osssc-pharmacist-syllabus-and-exam-pattern-3060388",
-    "timestamp": "2026-08-03T06:40:48.490368+00:00"
   }
 ]
