@@ -13,11 +13,18 @@ Produces TWO things:
      placeholder. If you've hand-customized index.html (e.g. added your
      own widgets) and it now reads from data.json instead, this script
      will NOT touch/overwrite your index.html — only data.json refreshes.
+
+Retention: notifications stay in the log (and on the site) for
+RETENTION_DAYS (default 365) from when they were first seen — old items
+are only dropped once they age past that, not because of a count cap.
+Duplicates (same site+title+link seen more than once) are collapsed to a
+single entry automatically.
 """
 
 import json
 import logging
 import os
+from datetime import datetime, timedelta, timezone
 
 logger = logging.getLogger("sarkari_monitor")
 
@@ -27,7 +34,8 @@ OUTPUT_PATH = os.path.join(BASE_DIR, "site", "index.html")
 DATA_JSON_PATH = os.path.join(BASE_DIR, "site", "data.json")
 NOTIFICATIONS_LOG = os.path.join(BASE_DIR, "notifications_log.json")
 
-MAX_ITEMS_ON_SITE = 300  # keep the page light — most recent N notices
+RETENTION_DAYS = 365     # keep notifications on site for this long
+MAX_ITEMS_ON_SITE = 5000 # hard safety cap only — retention/dedup keep this from being hit normally
 
 
 def load_notifications() -> list:
@@ -41,6 +49,32 @@ def load_notifications() -> list:
         return []
 
 
+def _dedupe_and_trim(items: list) -> list:
+    """Collapse duplicate (site, title, link) entries to one, and drop
+    anything older than RETENTION_DAYS. Order is not guaranteed on input."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=RETENTION_DAYS)
+    best_by_key = {}
+    for item in items:
+        ts = item.get("timestamp", "")
+        try:
+            ts_dt = datetime.fromisoformat(ts)
+            if ts_dt.tzinfo is None:
+                ts_dt = ts_dt.replace(tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            continue  # skip entries with an unparseable/missing date
+        if ts_dt < cutoff:
+            continue  # older than retention window — drop
+
+        key = (item.get("site", ""), item.get("title", ""), item.get("link", ""))
+        existing = best_by_key.get(key)
+        if existing is None or ts > existing.get("timestamp", ""):
+            best_by_key[key] = item
+
+    deduped = list(best_by_key.values())
+    deduped.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
+    return deduped[:MAX_ITEMS_ON_SITE]
+
+
 def append_notification(site: str, category: str, title: str, link: str, timestamp: str) -> None:
     """Add one notification to the persistent log (used by monitor.py)."""
     items = load_notifications()
@@ -51,8 +85,7 @@ def append_notification(site: str, category: str, title: str, link: str, timesta
         "link": link,
         "timestamp": timestamp,
     })
-    # keep the log from growing forever
-    items = items[-2000:]
+    items = _dedupe_and_trim(items)
     try:
         with open(NOTIFICATIONS_LOG, "w", encoding="utf-8") as f:
             json.dump(items, f, ensure_ascii=False, indent=2)
@@ -62,7 +95,7 @@ def append_notification(site: str, category: str, title: str, link: str, timesta
 
 def _get_items_sorted() -> list:
     items = load_notifications()
-    return sorted(items, key=lambda x: x.get("timestamp", ""), reverse=True)[:MAX_ITEMS_ON_SITE]
+    return _dedupe_and_trim(items)
 
 
 def generate_site() -> None:

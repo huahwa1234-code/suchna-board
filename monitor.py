@@ -100,6 +100,8 @@ def check_site(site: dict, state: dict) -> int:
     name, url = site["name"], site["url"]
     seen = set(state.get(name, []))
     new_count = 0
+    matched_count = 0     # links that matched a category keyword
+    already_seen_count = 0
 
     try:
         resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
@@ -120,9 +122,11 @@ def check_site(site: dict, state: dict) -> int:
         category = categorize(text)
         if category is None:
             continue  # doesn't match any tracked category, skip (strict mode)
+        matched_count += 1
 
         h = link_hash(text, href)
         if h in seen:
+            already_seen_count += 1
             continue  # already notified before
 
         # New item found
@@ -150,6 +154,10 @@ def check_site(site: dict, state: dict) -> int:
         time.sleep(1)  # small delay to avoid Telegram rate limits
 
     state[name] = list(seen)
+    logger.info(
+        "[%s] %d links total, %d matched a category, %d already seen, %d new",
+        name, len(anchors), matched_count, already_seen_count, new_count,
+    )
     return new_count
 
 

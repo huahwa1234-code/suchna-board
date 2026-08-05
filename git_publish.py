@@ -43,6 +43,10 @@ def publish_to_git() -> None:
         logger.warning("git add failed: %s", out)
         return
 
+    # Ensure a commit identity exists (fresh CI runners have none by default)
+    _run(["git", "config", "user.name", getattr(config, "GIT_BOT_NAME", "Sarkari Monitor Bot")])
+    _run(["git", "config", "user.email", getattr(config, "GIT_BOT_EMAIL", "bot@sarkari-monitor.local")])
+
     ok, out = _run(["git", "commit", "-m", config.GIT_COMMIT_MESSAGE])
     if not ok:
         if "nothing to commit" in out.lower():
