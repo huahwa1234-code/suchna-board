@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "RSSB Conductor Final Result 2026",
+    "link": "https://www.freejobalert.com/articles/rssb-conductor-final-result-2026-3061447",
+    "timestamp": "2026-08-05T04:06:18.078717+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (22,686 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-08-05T04:06:16.211687+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Post Graduate (791 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
@@ -2084,19 +2098,5 @@
     "title": "APPSC CPT Result 2026",
     "link": "https://www.freejobalert.com/articles/appsc-cpt-result-2026-3061126",
     "timestamp": "2026-08-03T06:39:50.960088+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "PPSC ARO and RO Result 2026",
-    "link": "https://www.freejobalert.com/articles/ppsc-aro-and-ro-result-2026-3061129",
-    "timestamp": "2026-08-03T06:39:49.462133+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Punjab and Sind Bank Apprentice Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/punjab-and-sind-bank-apprentice-result-2026-3061148",
-    "timestamp": "2026-08-03T06:39:47.948457+00:00"
   }
 ]
