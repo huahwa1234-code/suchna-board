@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (15,893 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-08T10:35:30.669295+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(254 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/?utm_source=freejobalert_homepage&utm_medium=internal_banner&utm_campaign=last_date_reminder&utm_content=homepage_banner",
+    "timestamp": "2026-08-08T10:35:29.010915+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "SMKV Bastar University Result 2026",
     "link": "https://www.freejobalert.com/articles/smkv-result-2026-out-direct-link-to-download-semester-results-3062047",
