@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (7,043 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-08-10T08:14:41.832898+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (15,230 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-10T08:14:40.225241+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "DDU Second Cut Off 2026 Out",
     "link": "https://www.freejobalert.com/articles/ddu-second-cut-off-2026-out-check-ug-and-pg-second-cutoff-3062164",
