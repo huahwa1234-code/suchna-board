@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (19,202 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-08-10T06:23:24.482196+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (9,113 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-08-10T06:23:22.824525+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "TANCET MBA Allotment Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/tancet-mba-allotment-result-2026-out-direct-link-to-check-confirmation-status-3062139",
