@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (28,259 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-08-10T07:35:43.111943+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (29,082 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-08-10T07:35:41.571223+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (9,262 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-08-10T07:35:40.038453+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "IOB LBO Syllabus 2026",
     "link": "https://www.freejobalert.com/articles/iob-lbo-syllabus-and-exam-pattern-3062146",
