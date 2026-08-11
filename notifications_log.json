@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (794 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-08-11T10:05:58.567708+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (21,560 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-11T10:05:57.060033+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (27,435 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-08-11T10:05:55.554845+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "GGSIPU BMS Merit List 2026 Out",
     "link": "https://www.freejobalert.com/articles/ggsipu-bms-merit-list-2026-out-check-cuet-rank-3062385",
