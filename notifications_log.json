@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "HPSC PGT Final Result 2026",
+    "link": "https://www.freejobalert.com/articles/hpsc-pgt-final-result-2026-3062618",
+    "timestamp": "2026-08-12T10:58:07.193384+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,803 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-12T10:58:05.416803+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (20,485 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-12T10:58:03.745574+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (26,818 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-08-12T10:58:02.049158+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Post Graduate (987 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
