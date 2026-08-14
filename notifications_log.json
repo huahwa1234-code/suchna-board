@@ -1,5 +1,26 @@
 [
   {
+    "site": "RBI Opportunities",
+    "category": "Vacancy",
+    "title": "Recruitment",
+    "link": "https://opportunities.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=2802",
+    "timestamp": "2026-08-14T21:45:45.872309+00:00"
+  },
+  {
+    "site": "RBI Opportunities",
+    "category": "Result",
+    "title": "Results",
+    "link": "https://opportunities.rbi.org.in/Scripts/resultsnew.aspx",
+    "timestamp": "2026-08-14T21:45:44.186865+00:00"
+  },
+  {
+    "site": "RBI Opportunities",
+    "category": "Admit Card",
+    "title": "Call Letters",
+    "link": "https://opportunities.rbi.org.in/Scripts/CallLetters.aspx",
+    "timestamp": "2026-08-14T21:45:42.506156+00:00"
+  },
+  {
     "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Graduate (39,360 Jobs)",
