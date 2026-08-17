@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (40,316 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-08-17T07:18:04.705369+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (21,806 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-17T07:18:03.120559+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "UP Board 10th Compartment Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/up-board-10th-compartment-result-2026-out-check-result-online-3063200",
