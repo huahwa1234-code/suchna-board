@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (17,616 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-19T07:43:29.327686+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(345 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/?utm_source=freejobalert_homepage&utm_medium=internal_banner&utm_campaign=last_date_reminder&utm_content=homepage_banner",
+    "timestamp": "2026-08-19T07:43:27.819265+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Chhattisgarh NEET UG Merit List 2026 Out",
     "link": "https://www.freejobalert.com/articles/chhattisgarh-neet-ug-merit-list-2026-out-direct-link-to-download-round-1-rank-list-pdf-3063574",
