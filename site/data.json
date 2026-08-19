@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "AP ECET 2026 Final Phase Seat Allotment Result Out",
+    "link": "https://www.freejobalert.com/articles/ap-ecet-2026-final-phase-seat-allotment-result-check-status-online-3063459",
+    "timestamp": "2026-08-19T04:14:59.896534+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (19,349 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-08-19T04:14:58.193181+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (10,782 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-08-19T04:14:56.399352+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "AIAPGET Admit Card 2026",
     "link": "https://www.freejobalert.com/articles/aiapget-admit-card-2026-out-download-hall-ticket-3063513",
