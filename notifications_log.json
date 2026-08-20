@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "BSNL JTO Admit Card 2026 Out Today",
+    "link": "https://www.freejobalert.com/articles/bsnl-jto-admit-card-2026-3063749",
+    "timestamp": "2026-08-20T05:05:45.836999+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (17,686 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-20T05:05:44.163568+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (24,288 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-20T05:05:42.490884+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (10,871 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-08-20T05:05:40.827495+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "OSSC CGL Mains Result 2026",
     "link": "https://www.freejobalert.com/articles/ossc-cgl-mains-result-2026-3063736",
