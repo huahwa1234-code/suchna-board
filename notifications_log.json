@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (17,887 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-20T11:49:17.318573+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (24,408 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-20T11:49:15.672123+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "BSNL JTO Admit Card 2026 Out",
     "link": "https://www.freejobalert.com/articles/bsnl-jto-admit-card-2026-3063749",
