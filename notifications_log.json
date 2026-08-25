@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (16,613 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-25T10:56:49.586372+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (22,686 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-25T10:56:48.055669+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Maharashtra MCA Round 3 Seat Allotment Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/maharashtra-mca-round-3-seat-allotment-result-2026-out-download-result-3064553",
