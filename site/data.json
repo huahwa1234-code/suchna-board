@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (38,650 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-08-26T08:06:54.811350+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (16,805 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-26T08:06:53.309763+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (22,192 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-26T08:06:51.685645+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "PSEB Class 12 Supplementary Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/pseb-class-12-supplementary-result-2026-out-check-result-online-3064746",
