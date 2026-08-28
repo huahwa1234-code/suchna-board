@@ -1,6 +1,62 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admission",
+    "title": "NEET UG Counselling 2026 Round 2",
+    "link": "https://www.freejobalert.com/articles/neet-ug-counselling-2026-round-2-check-dates-eligibility-fee-and-registration-3065092",
+    "timestamp": "2026-08-28T04:35:28.857093+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Answer Key",
+    "title": "WBCS Final Answer Key 2026",
+    "link": "https://www.freejobalert.com/articles/wbcs-final-answer-key-2026-3065084",
+    "timestamp": "2026-08-28T04:35:27.223524+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "UPSSSC Forest Guard and Wildlife Guard Eligibility Result 2026",
+    "link": "https://www.freejobalert.com/articles/upsssc-forest-guard-and-wildlife-guard-eligibility-result-2026-3065089",
+    "timestamp": "2026-08-28T04:35:25.480814+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "UPSSSC Forensic Science Laboratory Eligibility Result 2026",
+    "link": "https://www.freejobalert.com/articles/upsssc-forensic-science-laboratory-eligibility-result-2026-3065090",
+    "timestamp": "2026-08-28T04:35:23.850982+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (18,199 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-08-28T04:35:22.210254+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (22,590 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-08-28T04:35:20.568454+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (17,656 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-08-28T04:35:18.915634+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (35,783 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-08-28T04:35:17.283882+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Post Graduate (1,005 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
