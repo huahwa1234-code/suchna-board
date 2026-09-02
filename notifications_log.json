@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (778 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-09-02T05:35:17.365261+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (18,492 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-02T05:35:15.793026+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (16,466 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-09-02T05:35:14.217739+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "MP ITI Admission 2026 Trade-Wise Merit List",
     "link": "https://www.freejobalert.com/articles/mp-iti-admission-2026-trade-wise-merit-list-counselling-and-selection-process-3065818",
