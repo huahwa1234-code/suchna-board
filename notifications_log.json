@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admission",
+    "title": "JEECUP Counselling 2026",
+    "link": "https://www.freejobalert.com/articles/jeecup-counselling-2026-check-round-7-seat-allotment-result-3066203",
+    "timestamp": "2026-09-04T06:35:34.260318+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (15,633 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-04T06:35:32.621749+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "B.Tech/B.E (15,448 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
