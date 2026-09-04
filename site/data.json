@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (15,448 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-04T06:05:29.201056+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (20,255 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-04T06:05:27.545713+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (18,416 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-09-04T06:05:25.907643+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "MCC NEET UG Counselling 2026",
     "link": "https://www.freejobalert.com/articles/mcc-neet-ug-counselling-2026-direct-link-to-check-round-2-registration-3066195",
