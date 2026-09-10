@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,313 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-10T11:35:17.821859+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "8TH (10,671 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
+    "timestamp": "2026-09-10T11:35:16.290450+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(395 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-09-10T11:35:14.761793+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Panjab University Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/panjab-university-result-2026-out-direct-link-to-check-ug-and-pg-result-online-3067249",
