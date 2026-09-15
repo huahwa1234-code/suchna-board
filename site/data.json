@@ -1,6 +1,62 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "VJTI Spot Round Admission 2026 Merit List Out",
+    "link": "https://www.freejobalert.com/articles/vjti-spot-round-admission-2026-merit-list-out-check-status-online-3067772",
+    "timestamp": "2026-09-15T13:06:00.510304+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admission",
+    "title": "IUST B.Sc Nursing Admission 2026",
+    "link": "https://www.freejobalert.com/articles/iust-bsc-nursing-admission-2026-check-vacant-seats-online-3067778",
+    "timestamp": "2026-09-15T13:05:58.955431+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "NMDC Steel Executive Admit Card 2026",
+    "link": "https://www.freejobalert.com/articles/nmdc-steel-executive-admit-card-2026-3067770",
+    "timestamp": "2026-09-15T13:05:57.347697+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "UPCISB Various Post Admit Card 2026",
+    "link": "https://www.freejobalert.com/articles/upcisb-various-post-admit-card-2026-3067780",
+    "timestamp": "2026-09-15T13:05:55.537298+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (1,310 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-09-15T13:05:54.002487+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (7,427 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-15T13:05:52.265673+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (11,459 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-09-15T13:05:50.690747+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (11,080 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-15T13:05:49.149593+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "UPES B.Tech Admission 2027",
     "link": "https://www.freejobalert.com/articles/upes-btech-admission-2027-check-upeseat-registration-link-online-3067758",
