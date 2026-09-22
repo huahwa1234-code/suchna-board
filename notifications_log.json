@@ -1,6 +1,41 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (9,624 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-09-22T11:08:35.298771+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (11,201 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-09-22T11:08:33.772725+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (12,672 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-22T11:08:32.248637+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "8TH (11,118 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
+    "timestamp": "2026-09-22T11:08:30.704598+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (22,932 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-09-22T11:08:29.134770+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "HP NEET UG Round 3 Counselling 2026",
     "link": "https://www.freejobalert.com/articles/hp-neet-ug-round-3-counselling-2026-direct-link-to-check-revised-schedule-online-3068884",
