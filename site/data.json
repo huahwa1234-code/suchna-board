@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (9,007 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-09-25T08:08:36.770532+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (5,800 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-25T08:08:35.172987+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (10,179 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-25T08:08:33.620284+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "AP ICET 2026 Final Phase Seat Allotment Result",
     "link": "https://www.freejobalert.com/articles/ap-icet-2026-final-phase-seat-allotment-result-check-status-online-3069426",
