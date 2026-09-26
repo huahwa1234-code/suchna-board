@@ -1,6 +1,41 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (9,076 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-09-26T05:36:19.551557+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (757 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-09-26T05:36:18.022240+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (5,642 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-26T05:36:16.296963+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (9,926 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-26T05:36:14.759757+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (16,408 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-09-26T05:36:13.235444+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "CSIR NEIST DR & MTS Result 2026",
     "link": "https://www.freejobalert.com/articles/csir-neist-dr-mts-result-2026-3069574",
