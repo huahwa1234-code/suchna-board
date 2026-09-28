@@ -1,6 +1,76 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (1,579 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-09-28T18:35:53.786561+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (12,576 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-09-28T18:35:52.122727+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (819 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-09-28T18:35:50.416871+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (5,652 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-28T18:35:48.756898+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (6,464 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-09-28T18:35:47.112041+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (10,147 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-28T18:35:45.428160+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (15,886 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-09-28T18:35:43.767959+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "8TH (11,156 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
+    "timestamp": "2026-09-28T18:35:42.126653+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (23,117 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-09-28T18:35:40.465098+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(382 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-09-28T18:35:38.793524+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Bihar DElEd Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/bihar-deled-result-2026-out-check-1st-year-and-2nd-year-result-online-3070015",
@@ -34928,75 +34998,5 @@
     "title": "Press release regarding recruitment of Civil Judge (Junior Division) Main Examination Advt.No.-22/2023 (17-07-2026)",
     "link": "https://jpsc.gov.in/data/Press_Release_22_23_dated_17_07_2026.pdf",
     "timestamp": "2026-08-03T06:35:28.965811+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Click here to download your application form for the recruitment of Civil Judge (Junior Division) Main Examination Advt.No.-22/2023 (18-07-2026)",
-    "link": "https://www.jpsc.gov.in/Civil_judge_junior_division_22_2023/login.php",
-    "timestamp": "2026-08-03T06:35:27.458934+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Notice regarding recruitment of Jharkhand Combined Civil Services Examination-2025 Advt.No.-01/2026 (29-07-2026)",
-    "link": "https://jpsc.gov.in/data/Notice.pdf",
-    "timestamp": "2026-08-03T06:35:25.942798+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "Press Releaseregarding Email IDfor general queriesrecruitment & legal mattersuploaded Date 18-12-2025",
-    "link": "https://jpsc.gov.in/data/Press_Release_dated_18_12_2025.pdf",
-    "timestamp": "2026-08-03T06:35:24.444473+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Vacancy",
-    "title": "The JharkhandExamination (MeasuresControl and Preventionof Unfair Means inRecruitment) Act, 2023(Jharkhand Act, 15,2023)uploaded date :29-11-2023",
-    "link": "https://jpsc.gov.in/data/jharkhand%20gazette_29_11_2023.pdf",
-    "timestamp": "2026-08-03T06:35:22.949090+00:00"
-  },
-  {
-    "site": "JPSC (Jharkhand)",
-    "category": "Syllabus",
-    "title": "Syllabus",
-    "link": "https://jpsc.gov.in/Syllabus.php",
-    "timestamp": "2026-08-03T06:35:21.440021+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Result",
-    "title": "Results",
-    "link": "https://mppsc.mp.gov.in/Results",
-    "timestamp": "2026-08-03T06:33:13.287348+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Admit Card",
-    "title": "Interview Call Letter",
-    "link": "https://mppsc.mp.gov.in/Callletter",
-    "timestamp": "2026-08-03T06:33:11.779788+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Answer Key",
-    "title": "Answer Key",
-    "link": "https://mppsc.mp.gov.in/Answer",
-    "timestamp": "2026-08-03T06:33:10.283320+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Admit Card",
-    "title": "Admit Cards",
-    "link": "https://mppsc.mp.gov.in/Admitcard",
-    "timestamp": "2026-08-03T06:33:08.604981+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Vacancy",
-    "title": "Apply Online",
-    "link": "https://mppsc.mp.gov.in/Applyonline",
-    "timestamp": "2026-08-03T06:33:07.107502+00:00"
   }
 ]
