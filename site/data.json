@@ -1,6 +1,48 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "RGUHS UG Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/rguhs-ug-result-2026-out-check-ems-marksheet-and-download-pdf-at-rguhskarnatakagovin-3069921",
+    "timestamp": "2026-09-28T11:06:21.845844+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "Pondicherry University B.Sc Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/pondicherry-university-bsc-result-2026-out-check-1st-5th-sem-result-3069941",
+    "timestamp": "2026-09-28T11:06:20.323823+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "DSSSB Assistant Sanitary Inspector Final Result 2026",
+    "link": "https://www.freejobalert.com/articles/dsssb-assistant-sanitary-inspector-final-result-2026-3069928",
+    "timestamp": "2026-09-28T11:06:18.776918+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (12,811 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-09-28T11:06:17.218675+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (5,846 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-28T11:06:15.682936+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(426 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-09-28T11:06:14.099770+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "Gujarat NEET UG Round 3 Counselling 2026",
     "link": "https://www.freejobalert.com/articles/gujarat-neet-ug-round-3-counselling-2026-registration-begins-for-mbbs-and-bds-admission-3069916",
@@ -34956,19 +34998,5 @@
     "title": "{{'DwldSyllabus_HM' | translate }}",
     "link": "https://uppsc.up.nic.in/CandidatePages/Syllabus/Syllabus_PostWise.aspx?ID=4",
     "timestamp": "2026-08-03T06:31:30.593334+00:00"
-  },
-  {
-    "site": "UPPSC",
-    "category": "Vacancy",
-    "title": "{{'OnlineNotifications_HM' | translate }}",
-    "link": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
-    "timestamp": "2026-08-03T06:31:29.087774+00:00"
-  },
-  {
-    "site": "UPPSC",
-    "category": "Vacancy",
-    "title": "{{'Recruitment_HM' | translate }}",
-    "link": "https://uppsc.up.nic.in/",
-    "timestamp": "2026-08-03T06:31:27.579859+00:00"
   }
 ]
