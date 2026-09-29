@@ -1,6 +1,62 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (2,350 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-09-29T19:06:06.177181+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (12,494 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-09-29T19:06:04.491344+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (721 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-09-29T19:06:02.766588+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (5,075 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-09-29T19:06:01.049622+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (8,845 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-09-29T19:05:59.297952+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (15,487 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-09-29T19:05:57.610424+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "8TH (11,093 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
+    "timestamp": "2026-09-29T19:05:55.913174+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (22,910 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-09-29T19:05:54.216865+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "MCC NEET PG 2026 Counselling PwD Medical Assessment",
     "link": "https://www.freejobalert.com/articles/mcc-neet-pg-2026-counselling-pwd-medical-assessment-check-full-schedule-online-3070238",
@@ -34942,61 +34998,5 @@
     "title": "IOB Apprentice Admit Card 2026 Out",
     "link": "https://www.freejobalert.com/articles/iob-apprentice-admit-card-2026-3060849",
     "timestamp": "2026-08-03T06:39:25.343266+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "GIMS Non-Teaching Admit Card 2026 Out",
-    "link": "https://www.freejobalert.com/articles/gims-non-teaching-admit-card-2026-3060875",
-    "timestamp": "2026-08-03T06:39:23.794297+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "HPSC ADA & Superintendent Legal Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/hpsc-ada-and-superintendent-legal-admit-card-2026-3060910",
-    "timestamp": "2026-08-03T06:39:22.268161+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "Calcutta High Court Stenographer/PA Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/calcutta-high-court-stenographer-pa-admit-card-2026-3060951",
-    "timestamp": "2026-08-03T06:39:20.614727+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "Exim Bank MT Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/exim-bank-mt-admit-card-2026-3060966",
-    "timestamp": "2026-08-03T06:39:19.106455+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "Gauhati High Court Grade III Call Letter 2026",
-    "link": "https://www.freejobalert.com/articles/gauhati-high-court-grade-iii-call-letter-2026-3061004",
-    "timestamp": "2026-08-03T06:39:17.552408+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "MP RAEO Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/mp-raeo-admit-card-2026-3060980",
-    "timestamp": "2026-08-03T06:39:16.033241+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "CSBC Bihar Police Driver DET Admit Card 2026 Soon",
-    "link": "https://www.freejobalert.com/articles/csbc-bihar-police-driver-det-admit-card-2026-3061133",
-    "timestamp": "2026-08-03T06:39:14.533920+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "APSC AE Admit Card 2026 - Out Today",
-    "link": "https://www.freejobalert.com/articles/apsc-ae-admit-card-2026-3061217",
-    "timestamp": "2026-08-03T06:39:13.030187+00:00"
   }
 ]
