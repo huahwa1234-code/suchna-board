@@ -1,5 +1,19 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "HNGU Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/hngu-result-2026-out-direct-link-to-check-ug-and-pg-result-online-3070199",
+    "timestamp": "2026-09-29T11:35:50.255955+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (15,991 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-09-29T11:35:48.401501+00:00"
+  },
+  {
     "site": "UPPSC",
     "category": "Result",
     "title": "06 Oct2026NOTICE REGARDING DOWNLOAD MARKSHEET & CUT OFF FOR ADVT. NO. D-5-E-1-2025, [S-10-04]",
@@ -34984,19 +34998,5 @@
     "title": "Exam Results",
     "link": "https://www.freejobalert.com/exam-results/",
     "timestamp": "2026-08-03T06:38:38.437078+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "Admit Card",
-    "link": "https://www.freejobalert.com/admit-card/",
-    "timestamp": "2026-08-03T06:38:36.864760+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Sarkari Result",
-    "link": "https://sarkariresult.freejobalert.com/",
-    "timestamp": "2026-08-03T06:38:35.349829+00:00"
   }
 ]
