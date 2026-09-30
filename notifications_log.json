@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(445 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-09-30T14:05:55.379495+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "SSUHS B.Sc Nursing Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/ssuhs-bsc-nursing-result-2026-out-check-5th-semester-result-online-3070552",
@@ -34991,12 +34998,5 @@
     "title": "Results",
     "link": "https://mjpru.ac.in/NoticeBoard.aspx",
     "timestamp": "2026-08-03T06:42:47.275598+00:00"
-  },
-  {
-    "site": "MJPRU Bareilly",
-    "category": "Admission",
-    "title": "Admission Procedure & Facilities Provided to International Students",
-    "link": "https://mjpru.ac.in/DIR.aspx",
-    "timestamp": "2026-08-03T06:42:45.729698+00:00"
   }
 ]
