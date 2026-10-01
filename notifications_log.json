@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (11,684 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-01T07:05:59.103929+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (643 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-10-01T07:05:57.537008+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (14,990 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-01T07:05:55.994146+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "HP NEET 2026 Round 3 Merit List Out",
     "link": "https://www.freejobalert.com/articles/hp-neet-2026-round-3-merit-list-out-direct-link-to-check-list-online-3070601",
@@ -34977,26 +34998,5 @@
     "title": "Diploma (18,684 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-08-03T10:35:40.990037+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (16,784 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-03T10:06:11.937925+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (841 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-08-03T08:45:50.856704+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "PSSSB ADA Provisional Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/psssb-ada-provisional-answer-key-2026-3061245",
-    "timestamp": "2026-08-03T08:25:28.604221+00:00"
   }
 ]
