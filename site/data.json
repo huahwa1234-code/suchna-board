@@ -1,5 +1,26 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (11,634 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-01T05:35:39.141792+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (6,834 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-01T05:35:37.502536+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (23,714 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-01T05:35:35.949324+00:00"
+  },
+  {
     "site": "UPPSC",
     "category": "Admit Card",
     "title": "CLICK HERE TO DOWNLOAD ADMIT CARD FOR ADVT.NO.D-6/E-1/2025, VETERINARY OFFICER (SCREENING) EXAM-2025, (EXAM. DATED-03/10/2026).",
@@ -34977,26 +34998,5 @@
     "title": "Recruitment",
     "link": "https://mjpru.ac.in/vacancy.aspx",
     "timestamp": "2026-08-03T06:43:20.655904+00:00"
-  },
-  {
-    "site": "MJPRU Bareilly",
-    "category": "Result",
-    "title": "M.J.P.R.U. Result Calculating Formula",
-    "link": "https://mjpru.ac.in/NoticeBoard/miss/2021/ResultFormula25092021.pdf",
-    "timestamp": "2026-08-03T06:43:19.154873+00:00"
-  },
-  {
-    "site": "MJPRU Bareilly",
-    "category": "Admission",
-    "title": "Admission Registration Process 2026-27",
-    "link": "https://mjpru.ac.in/NoticeBoard/Admission/2026/AdmissionsRegistration14052026.pdf",
-    "timestamp": "2026-08-03T06:43:17.652075+00:00"
-  },
-  {
-    "site": "MJPRU Bareilly",
-    "category": "Admission",
-    "title": "M.Tech+Ph.D. Integrated Dual Degree  Admission Rules  2026-27",
-    "link": "https://mjpru.ac.in/NoticeBoard/Admission/2026/MTechPhDRules11062026.pdf",
-    "timestamp": "2026-08-03T06:43:16.145920+00:00"
   }
 ]
