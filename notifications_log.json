@@ -1,6 +1,55 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (2,092 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-08T19:06:07.131819+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (15,647 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-08T19:06:05.371469+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (7,928 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-08T19:06:03.642412+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (6,906 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-10-08T19:06:01.930603+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (9,362 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-08T19:06:00.211920+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (12,225 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-08T19:05:58.462608+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (19,079 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-08T19:05:56.709133+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Andhra University Revaluation Results 2026 Out",
     "link": "https://www.freejobalert.com/articles/andhra-university-revaluation-results-2026-out-check-ug-and-pg-result-online-3072062",
@@ -34949,54 +34998,5 @@
     "title": "Diploma (19,462 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-08-10T10:35:46.441471+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (15,238 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-10T10:05:59.684654+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "KTTV 4th Sem Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/kttv-4th-sem-result-2026-out-check-ma-and-msc-result-3062179",
-    "timestamp": "2026-08-10T09:05:40.854768+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Jiwaji University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/jiwaji-university-result-2026-out-direct-link-to-check-mba-bsc-and-mped-result-3062180",
-    "timestamp": "2026-08-10T09:05:39.092853+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Punjabi University Patiala 6th Sem Result 2026",
-    "link": "https://www.freejobalert.com/articles/punjabi-university-patiala-6th-sem-result-2026-out-check-ba-bcom-and-bsc-3062181",
-    "timestamp": "2026-08-10T09:05:37.405035+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "UP Police Constable DV & PST Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/up-police-constable-dv-and-pst-admit-card-2026-3062184",
-    "timestamp": "2026-08-10T09:05:35.724727+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "MPSC Assistant Professor Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/mpsc-assistant-professor-answer-key-2026-3062173",
-    "timestamp": "2026-08-10T08:35:31.604401+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (29,191 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-10T08:35:30.013453+00:00"
   }
 ]
