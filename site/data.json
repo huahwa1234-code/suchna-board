@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "SPPU Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/sppu-llb-result-2026-out-check-third-year-result-online-3072782",
+    "timestamp": "2026-10-12T12:36:09.134469+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (2,270 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-12T12:36:07.433056+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (11,158 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-12T12:36:05.725022+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Answer Key",
     "title": "KEA KSET Answer Key 2026 Out",
     "link": "https://www.freejobalert.com/articles/kea-kset-answer-key-2026-3072935",
@@ -34977,26 +34998,5 @@
     "title": "MHT CET 2026 Round 2 Seat Allotment Result Out",
     "link": "https://www.freejobalert.com/articles/mht-cet-2026-round-2-seat-allotment-result-check-status-3062515",
     "timestamp": "2026-08-13T07:35:41.872579+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "BBAU UG Merit List 2026 Out",
-    "link": "https://www.freejobalert.com/articles/bbau-ug-merit-list-2026-out-download-course-wise-pdf-3062798",
-    "timestamp": "2026-08-13T07:35:40.353614+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "APPSC Junior Engineer Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/appsc-junior-engineer-answer-key-2026-3062784",
-    "timestamp": "2026-08-13T07:35:38.852863+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (39,654 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-08-13T07:35:37.338795+00:00"
   }
 ]
