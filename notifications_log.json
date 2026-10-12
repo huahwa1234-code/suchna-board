@@ -1,5 +1,19 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (8,764 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-12T09:36:33.786405+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (20,724 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-12T09:36:32.262258+00:00"
+  },
+  {
     "site": "UPPSC",
     "category": "Result",
     "title": "19 Oct2026NOTICE REGARDING DOWNLOAD MARKSHEET & CUT OFF FOR ADVT. NO. D-4-E-1-2025, [S-04-01]",
@@ -34984,19 +34998,5 @@
     "title": "8TH (302 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
     "timestamp": "2026-08-12T18:35:29.696202+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (9,234 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-12T18:35:28.064148+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Jharkhand Polytechnic PECE Round 1 Seat Allotment Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/jharkhand-polytechnic-pece-round-1-seat-allotment-result-2026-out-check-3062697",
-    "timestamp": "2026-08-12T13:06:03.038703+00:00"
   }
 ]
