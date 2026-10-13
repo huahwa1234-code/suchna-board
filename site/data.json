@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (15,679 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-13T06:44:52.016193+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (8,705 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-13T06:44:50.387689+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (6,563 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-10-13T06:44:48.795870+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (10,783 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-13T06:44:47.186962+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "CCSU B.Ed Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/ccsu-bed-result-2026-out-direct-link-to-check-result-online-3073096",
@@ -34970,33 +34998,5 @@
     "title": "ITI (16,372 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
     "timestamp": "2026-08-13T19:05:34.840090+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (19,372 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-13T19:05:33.333708+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (26,885 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-13T19:05:31.835052+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "8TH (647 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
-    "timestamp": "2026-08-13T19:05:30.343374+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (8,879 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-13T19:05:28.851995+00:00"
   }
 ]
