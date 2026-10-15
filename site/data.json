@@ -1,6 +1,41 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Syllabus",
+    "title": "AIBE 22 Syllabus 2026 Out",
+    "link": "https://www.freejobalert.com/articles/aibe-22-syllabus-2026-3073845",
+    "timestamp": "2026-10-15T11:06:28.747892+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (16,102 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-15T11:06:27.113308+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (736 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-10-15T11:06:25.392964+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,959 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-15T11:06:23.679411+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "SBI PO Mains Result 2026",
+    "link": "https://www.freejobalert.com/articles/sbi-po-mains-result-2026-3073828",
+    "timestamp": "2026-10-15T11:06:22.063336+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Answer Key",
     "title": "TNPSC Group 2 Mains Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/tnpsc-group-2-mains-answer-key-2026-3073809",
@@ -34963,40 +34998,5 @@
     "title": "Written Results",
     "link": "https://upsc.gov.in/written-results-",
     "timestamp": "2026-08-18T07:02:06.731368+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Admit Card",
-    "title": "Admit Cards",
-    "link": "https://upsc.gov.in/e-admit-cards",
-    "timestamp": "2026-08-18T07:02:05.230084+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Vacancy",
-    "title": "Apply Online",
-    "link": "https://upsc.gov.in/apply-online",
-    "timestamp": "2026-08-18T07:02:03.709033+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Vacancy",
-    "title": "Recruitment Advertisements",
-    "link": "https://upsc.gov.in/recruitment/recruitment-advertisement",
-    "timestamp": "2026-08-18T07:02:02.209475+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Vacancy",
-    "title": "Examination Notifications",
-    "link": "https://upsc.gov.in/exams-related-info/exam-notification",
-    "timestamp": "2026-08-18T07:02:00.670428+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Result",
-    "title": "Written Result: Combined Geo-Scientist (Main) Examination, 2026",
-    "link": "https://upsc.gov.in/whats-new/Combined%20Geo-Scientist%20%28Main%29%20Examination%2C%202026/Written%20Result",
-    "timestamp": "2026-08-18T07:01:59.169629+00:00"
   }
 ]
