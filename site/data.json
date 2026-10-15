@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admission",
+    "title": "WB NEET PG Counselling 2026 Schedule",
+    "link": "https://www.freejobalert.com/articles/wb-neet-pg-counselling-2026-registration-3073858",
+    "timestamp": "2026-10-15T11:36:15.578888+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (11,145 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-15T11:36:14.017319+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (8,634 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-15T11:36:12.428255+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "AIBE 22 Syllabus 2026 Out",
     "link": "https://www.freejobalert.com/articles/aibe-22-syllabus-2026-3073845",
@@ -34977,26 +34998,5 @@
     "title": "Diploma (22,648 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-08-18T07:06:06.645899+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (26,364 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-18T07:06:05.153680+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Result",
-    "title": "Final Results",
-    "link": "https://upsc.gov.in/final-results",
-    "timestamp": "2026-08-18T07:02:08.240725+00:00"
-  },
-  {
-    "site": "UPSC",
-    "category": "Result",
-    "title": "Written Results",
-    "link": "https://upsc.gov.in/written-results-",
-    "timestamp": "2026-08-18T07:02:06.731368+00:00"
   }
 ]
