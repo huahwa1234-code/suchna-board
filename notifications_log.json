@@ -1,6 +1,41 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "Bihar UGMAC Round 3 Seat Allotment Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/bihar-ugmac-round-3-provisional-seat-allotment-result-2026-3072701",
+    "timestamp": "2026-10-15T04:06:40.706797+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "MH SET Admit Card 2026 Out Today",
+    "link": "https://www.freejobalert.com/articles/mh-set-admit-card-2026-3072848",
+    "timestamp": "2026-10-15T04:06:38.947729+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (16,069 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-15T04:06:37.195330+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (724 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-10-15T04:06:35.440238+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,784 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-15T04:06:33.634817+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Graduate (16,068 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
@@ -34963,40 +34998,5 @@
     "title": "12TH (25,953 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
     "timestamp": "2026-08-17T19:05:45.372295+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "8TH (304 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
-    "timestamp": "2026-08-17T19:05:43.862954+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (8,459 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-17T19:05:42.362017+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Andhra University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/andhra-university-result-2026-out-check-msc-and-dped-result-3063293",
-    "timestamp": "2026-08-17T13:05:29.079772+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (15,976 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-17T13:05:27.543517+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (21,834 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-17T13:05:25.990480+00:00"
   }
 ]
