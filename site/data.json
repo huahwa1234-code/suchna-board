@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (3,051 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-16T13:06:34.835201+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Osmania University B.F.Tech Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/osmania-university-bba-mba-result-2026-out-check-result-online-3074058",
@@ -34991,12 +34998,5 @@
     "title": "B.Tech/B.E (17,624 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
     "timestamp": "2026-08-19T08:20:28.540736+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Jiwaji University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/jiwaji-university-result-2026-out-check-ug-and-pg-results-online-3063600",
-    "timestamp": "2026-08-19T08:05:40.102759+00:00"
   }
 ]
