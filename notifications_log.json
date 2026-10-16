@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (15,301 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-16T09:05:59.640293+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (10,425 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-16T09:05:56.864049+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Karnataka PGCET 2026 Round 2 Allotment Result Out",
     "link": "https://www.freejobalert.com/articles/karnataka-pgcet-2026-round-2-allotment-result-3074165",
@@ -34984,19 +34998,5 @@
     "title": "Diploma (22,343 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-08-19T05:29:21.691208+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Syllabus",
-    "title": "APPSC ASWO Syllabus 2026",
-    "link": "https://www.freejobalert.com/articles/appsc-aswo-syllabus-3063520",
-    "timestamp": "2026-08-19T04:56:53.851570+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (16,246 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-19T04:56:52.352152+00:00"
   }
 ]
