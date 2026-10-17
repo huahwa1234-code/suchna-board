@@ -1,6 +1,48 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (3,015 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-17T19:06:38.206408+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (10,626 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-17T19:06:36.679357+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (680 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-10-17T19:06:35.154325+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,614 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-17T19:06:33.618081+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (12,017 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-17T19:06:32.097381+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (10,657 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-17T19:06:30.550811+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "SPPU Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/sppu-result-2026-out-check-ug-and-pg-result-online-3074380",
@@ -34956,47 +34998,5 @@
     "title": "Selection List - Assistant Manager Exam 2024, Dated 19/08/2026",
     "link": "https://mppsc.mp.gov.in/uploads/files/Selection_List_Assistant_Manager_Exam_2024_Dated_19_08_2026.pdf",
     "timestamp": "2026-08-19T17:26:45.508498+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Result",
-    "title": "Caveat Vigyapti on Selection List of Assistant Manager Exam 2024, Dated 19/08/2026",
-    "link": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_Assistant_Manager_Exam_2024_Dated_19_08_2026.pdf",
-    "timestamp": "2026-08-19T17:26:43.879674+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "HBSE Admit Card 2026 Out",
-    "link": "https://www.freejobalert.com/articles/hbse-admit-card-2026-out-download-haryana-board-exam-hall-ticket-3063715",
-    "timestamp": "2026-08-19T13:05:51.874078+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Karnataka PGCET Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/karnataka-pgcet-result-2026-out-check-mba-mca-and-mtech-result-3063716",
-    "timestamp": "2026-08-19T13:05:50.267627+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admission",
-    "title": "WB NEET UG Counselling 2026",
-    "link": "https://www.freejobalert.com/articles/wb-neet-ug-counselling-2026-check-round-1-candidates-list-and-seat-matrix-3063717",
-    "timestamp": "2026-08-19T13:05:48.722238+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "UP NEET UG 2026 Round 1 State Merit List",
-    "link": "https://www.freejobalert.com/articles/up-neet-ug-2026-round-1-state-merit-list-check-release-date-3063719",
-    "timestamp": "2026-08-19T13:05:47.172066+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "IISER 2026 Round 4 Seat Allotment Result Out",
-    "link": "https://www.freejobalert.com/articles/iiser-2026-round-4-seat-allotment-result-out-check-link-online-3063723",
-    "timestamp": "2026-08-19T13:05:45.663205+00:00"
   }
 ]
