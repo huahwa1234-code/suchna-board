@@ -1,6 +1,41 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (14,291 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-17T06:06:07.861319+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (7,630 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-10-17T06:06:06.229424+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (12,273 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-17T06:06:04.609073+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (10,696 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-17T06:06:02.994285+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (14,104 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-17T06:06:01.358921+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "Karnataka PGCET 2026 Round 2 Admission",
     "link": "https://www.freejobalert.com/articles/karnataka-pgcet-2026-round-2-admission-fee-payment-college-reporting-3074299",
@@ -34963,40 +34998,5 @@
     "title": "B.Tech/B.E (17,630 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
     "timestamp": "2026-08-19T11:05:29.961096+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (25,715 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-19T11:05:28.241145+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (10,874 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-19T11:05:26.502588+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Upcoming Last Date Alerts(349 jobs closing this week)View All →",
-    "link": "https://www.freejobalert.com/last-date-reminder/?utm_source=freejobalert_homepage&utm_medium=internal_banner&utm_campaign=last_date_reminder&utm_content=homepage_banner",
-    "timestamp": "2026-08-19T11:05:24.797014+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Pondicherry University B.Sc Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/pondicherry-university-bsc-result-2026-out-check-semester-results-online-3063656",
-    "timestamp": "2026-08-19T10:52:05.548330+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "WBJEE ANM GNM Round 1 Allotment Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/wbjee-anm-gnm-round-1-allotment-result-2026-check-status-3063573",
-    "timestamp": "2026-08-19T10:52:03.970005+00:00"
   }
 ]
