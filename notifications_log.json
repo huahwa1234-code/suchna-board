@@ -2,6 +2,13 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "B.Tech/B.E (9,621 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-18T17:02:29.716517+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Graduate (10,633 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-10-18T09:36:01.184479+00:00"
@@ -34991,12 +34998,5 @@
     "title": "ITI (21,174 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
     "timestamp": "2026-08-19T19:06:06.839183+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (24,280 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-19T19:06:05.118321+00:00"
   }
 ]
