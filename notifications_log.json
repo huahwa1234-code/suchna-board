@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (3,661 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-20T08:36:01.283608+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (10,779 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-20T08:35:59.738139+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (12,348 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-20T08:35:58.210241+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "NEET UG 2026 Stray Vacancy Result",
     "link": "https://www.freejobalert.com/articles/neet-ug-2026-stray-vacancy-round-provisional-result-3074467",
@@ -34977,26 +34998,5 @@
     "title": "Kerala University PG Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/kerala-university-pg-result-2026-out-check-msw-msc-and-ma-semester-results-3063877",
     "timestamp": "2026-08-20T10:48:44.895662+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "Mizoram PSC LDE Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/mizoram-psc-lde-admit-card-2026-3063882",
-    "timestamp": "2026-08-20T10:48:43.240428+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (728 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-08-20T10:48:41.567022+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (43,230 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-08-20T10:48:39.855226+00:00"
   }
 ]
