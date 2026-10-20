@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "NEET UG 2026 Stray Vacancy Result",
+    "link": "https://www.freejobalert.com/articles/neet-ug-2026-stray-vacancy-round-provisional-result-3074467",
+    "timestamp": "2026-10-20T08:06:16.297166+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "PSSSB Group D Admit Card 2026 Out Today",
+    "link": "https://www.freejobalert.com/articles/punjab-sssb-group-d-admit-card-2026-3074459",
+    "timestamp": "2026-10-20T08:06:14.744087+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (3,650 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-20T08:06:13.162535+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "12TH (10,836 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
@@ -34977,26 +34998,5 @@
     "title": "Any Graduate (43,230 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-08-20T10:48:39.855226+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (24,357 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-20T10:48:38.205922+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (10,901 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-20T10:48:36.535166+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "MPPSC Assistant Manager Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/mppsc-assistant-manager-result-2026-3063870",
-    "timestamp": "2026-08-20T10:35:35.224259+00:00"
   }
 ]
