@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(501 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-10-21T14:06:04.386045+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Dr. M.G.R. Medical University MBBS Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/dr-mgr-medical-university-mbbs-result-2026-out-check-result-online-3074864",
@@ -34991,12 +34998,5 @@
     "title": "8TH (330 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
     "timestamp": "2026-08-22T05:35:28.532457+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "CCI Various Post Admit Card 2026 Out",
-    "link": "https://www.freejobalert.com/articles/cci-various-post-admit-card-2026-3064120",
-    "timestamp": "2026-08-22T05:05:30.052565+00:00"
   }
 ]
