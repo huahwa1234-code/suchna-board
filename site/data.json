@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (10,073 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-21T05:06:06.893777+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (8,889 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-21T05:06:05.256945+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "AIIMS Delhi Early Stage Researcher Recruitment 2026",
+    "link": "https://www.freejobalert.com/articles/aiims-delhi-early-stage-researcher-recruitment-2026-apply-online-3074578",
+    "timestamp": "2026-10-21T05:06:03.615235+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "RMLAU Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/rmlau-result-2026-out-check-ug-and-pg-results-online-3074557",
@@ -34977,26 +34998,5 @@
     "title": "Any Graduate (43,240 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-08-20T13:05:34.278282+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (24,421 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-20T13:05:32.676556+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (10,909 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-20T13:05:31.042370+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Upcoming Last Date Alerts(374 jobs closing this week)View All →",
-    "link": "https://www.freejobalert.com/last-date-reminder/?utm_source=freejobalert_homepage&utm_medium=internal_banner&utm_campaign=last_date_reminder&utm_content=homepage_banner",
-    "timestamp": "2026-08-20T13:05:29.392081+00:00"
   }
 ]
