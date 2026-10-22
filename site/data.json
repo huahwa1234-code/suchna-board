@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ASMC Bahraich Faculty Posts Walk-in 2026",
+    "link": "https://www.freejobalert.com/articles/asmc-bahraich-to-recruit-53-faculty-posts-3075042",
+    "timestamp": "2026-10-22T10:06:29.002080+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "FCRI JRE Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/fcri-jre-result-2026-3075045",
+    "timestamp": "2026-10-22T10:06:27.488146+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "ISRO ICRB Admit Card 2026 Out",
+    "link": "https://www.freejobalert.com/articles/isro-icrb-scientist-engineer-admit-card-2026-3074903",
+    "timestamp": "2026-10-22T10:06:25.535411+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "SSB Constable Sports Quota Final Result 2026",
     "link": "https://www.freejobalert.com/articles/ssb-constable-sports-quota-final-result-2026-3075033",
@@ -34977,26 +34998,5 @@
     "title": "Diploma (23,403 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-08-23T19:35:13.256629+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (17,481 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-23T19:35:11.713588+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (10,742 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-08-23T19:35:10.180107+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (739 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-08-22T19:06:01.317378+00:00"
   }
 ]
