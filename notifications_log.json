@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,190 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-22T13:35:55.055379+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (16,477 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-22T13:35:53.390584+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "ICSE Class 10 Economics Syllabus 2026-27",
     "link": "https://www.freejobalert.com/articles/icse-class-10-economics-syllabus-2026-27-3075187",
@@ -34984,19 +34998,5 @@
     "title": "Any Graduate (38,257 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-08-24T08:36:52.634853+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.com (4,016 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
-    "timestamp": "2026-08-24T08:36:50.918744+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (17,461 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-24T08:36:49.403570+00:00"
   }
 ]
