@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "IBPS SO Score Card 2026",
+    "link": "https://www.freejobalert.com/articles/ibps-so-score-card-2026-3075047",
+    "timestamp": "2026-10-22T10:33:33.062764+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "IBPS SO Mains Admit Card 2026",
+    "link": "https://www.freejobalert.com/articles/ibps-so-mains-admit-card-2026-3075046",
+    "timestamp": "2026-10-22T10:33:31.421563+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "PSSSB Group D Admit Card 2026 Out",
+    "link": "https://www.freejobalert.com/articles/punjab-sssb-group-d-admit-card-2026-3074459",
+    "timestamp": "2026-10-22T10:33:29.776848+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (12,824 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-22T10:33:28.106618+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "ASMC Bahraich Faculty Posts Walk-in 2026",
     "link": "https://www.freejobalert.com/articles/asmc-bahraich-to-recruit-53-faculty-posts-3075042",
@@ -34970,33 +34998,5 @@
     "title": "10TH (10,814 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
     "timestamp": "2026-08-24T05:06:46.080168+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (735 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-08-23T19:35:17.858290+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (38,244 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-08-23T19:35:16.316711+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (17,446 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-23T19:35:14.780625+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (23,403 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-23T19:35:13.256629+00:00"
   }
 ]
