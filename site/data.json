@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "ABVMU Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/abvmu-result-2026-out-check-ug-and-pg-exam-result-online-3075195",
+    "timestamp": "2026-10-23T04:06:05.953894+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "NICL Assistant Mains Admit Card 2026",
+    "link": "https://www.freejobalert.com/articles/nicl-assistant-mains-admit-card-2026-3075196",
+    "timestamp": "2026-10-23T04:06:04.408755+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,172 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-23T04:06:02.864663+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (13,052 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-23T04:06:01.337224+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Post Graduate (3,882 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
@@ -34970,33 +34998,5 @@
     "title": "B.com (4,050 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
     "timestamp": "2026-08-24T10:05:37.517105+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (17,475 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-24T10:05:35.865864+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "ITI (14,277 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
-    "timestamp": "2026-08-24T10:05:34.162921+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (23,561 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-24T10:05:32.531359+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (17,829 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-24T10:05:30.886171+00:00"
   }
 ]
