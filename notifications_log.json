@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (30,126 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-24T06:35:45.478985+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (11,738 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-24T06:35:43.914786+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (35,156 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-24T06:35:42.343210+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "CCI Various Post Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/cci-result-2026-3074041",
@@ -34977,26 +34998,5 @@
     "title": "Selection List - State Engineering Services (Electrical and Mechanical) Exam 2025, Dated 25/08/2026",
     "link": "https://mppsc.mp.gov.in/uploads/files/Selection_List_State_Engineering_Services_Electrical_and_Mechanical_Exam_2025_Dated_25_08_2026.pdf",
     "timestamp": "2026-08-25T13:32:51.165638+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Result",
-    "title": "Caveat Vigyapti on Selection List of State Engineering Services (Electrical and Mechanical) Exam 2025, Dated 25/08/2026",
-    "link": "https://mppsc.mp.gov.in/uploads/advertisement/Caveat_Vigyapti_State_Engineering_Services_Electrical_and_Mechanical_Exam_2025_Dated_25_08_2026.pdf",
-    "timestamp": "2026-08-25T13:32:49.427984+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Jammu University B.Tech Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/jammu-university-btech-result-2026-out-check-even-semester-result-online-3064631",
-    "timestamp": "2026-08-25T13:06:33.816585+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Andhra University M.Sc Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/andhra-university-msc-result-2026-out-check-3rd-semester-result-online-3064643",
-    "timestamp": "2026-08-25T13:06:32.237889+00:00"
   }
 ]
