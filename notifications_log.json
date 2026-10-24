@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "UP Home Guard Score Card 2026 Out",
+    "link": "https://www.freejobalert.com/articles/up-home-guard-score-card-2026-3075587",
+    "timestamp": "2026-10-24T07:35:46.637125+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (6,512 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-24T07:35:44.971939+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (11,748 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-24T07:35:43.219592+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (22,210 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-24T07:35:41.504563+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Graduate (30,165 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
@@ -34970,33 +34998,5 @@
     "title": "B.Tech/B.E (14,334 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
     "timestamp": "2026-08-25T19:34:47.554818+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "ITI (12,403 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
-    "timestamp": "2026-08-25T19:34:45.869094+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (19,881 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-25T19:34:44.143693+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (17,533 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-08-25T19:34:42.473259+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "8TH (411 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
-    "timestamp": "2026-08-25T19:34:40.775158+00:00"
   }
 ]
