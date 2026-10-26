@@ -1,6 +1,48 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (6,539 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-26T13:06:37.852466+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (30,187 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-26T13:06:35.070004+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (11,125 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-10-26T13:06:33.449032+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (38,011 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-26T13:06:31.776810+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (34,950 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-26T13:06:30.131255+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (21,493 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-26T13:06:27.180790+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Andhra University M.A Revaluation Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/andhra-university-ma-revaluation-result-2026-out-check-1st-semester-result-3075832",
@@ -34956,47 +34998,5 @@
     "title": "10TH (36,233 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
     "timestamp": "2026-08-27T08:06:11.789899+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "BFUHS Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/bfuhs-result-2026-out-direct-link-to-check-bsc-and-bds-result-online-3064934",
-    "timestamp": "2026-08-27T07:36:08.547291+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Panjab University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/panjab-university-result-2026-out-check-ug-and-pg-results-online-3064938",
-    "timestamp": "2026-08-27T07:36:06.821793+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (1,026 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-08-27T07:36:05.105049+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (16,510 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-27T07:36:03.114970+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "SGBAU Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/sgbau-result-2026-out-check-btech-and-bpes-results-online-3064933",
-    "timestamp": "2026-08-27T07:06:17.255749+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Bihar NEET Round 1 CutOff 2026 Out",
-    "link": "https://www.freejobalert.com/articles/bihar-neet-round-1-cut-off-2026-out-check-for-mbbs-and-bds-online-3064923",
-    "timestamp": "2026-08-27T07:06:15.522779+00:00"
   }
 ]
