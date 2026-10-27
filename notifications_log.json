@@ -2,6 +2,13 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(586 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-10-27T15:35:49.684900+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Graduate (30,720 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-10-27T15:06:17.867365+00:00"
@@ -34991,12 +34998,5 @@
     "title": "ITI (12,356 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
     "timestamp": "2026-08-28T19:01:20.500439+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (20,535 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-08-28T19:01:18.789066+00:00"
   }
 ]
