@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admission",
+    "title": "MP AYUSH Round 3 Counselling 2026",
+    "link": "https://www.freejobalert.com/articles/mp-ayush-round-3-counselling-2026-3076467",
+    "timestamp": "2026-10-28T10:35:55.455401+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "HBCHRC Nurse Walk-in 2026",
+    "link": "https://www.freejobalert.com/articles/hbchrc-nurse-recruitment-2026-walkin-for-50-posts-3076479",
+    "timestamp": "2026-10-28T10:35:53.846837+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (6,225 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-10-28T10:35:52.255362+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (30,450 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-28T10:35:50.656248+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "BEL Probationary Engineer Syllabus 2026",
     "link": "https://www.freejobalert.com/articles/bel-probationary-engineer-syllabus-and-exam-pattern-3076442",
@@ -34970,33 +34998,5 @@
     "title": "TS LAWCET Counselling 2026 Seat Allotment Result Out",
     "link": "https://www.freejobalert.com/articles/ts-lawcet-counselling-2026-seat-allotment-result-check-phase-2-result-3065265",
     "timestamp": "2026-08-31T04:05:47.459981+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "RPSC APO Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/rpsc-apo-admit-card-2026-3065385",
-    "timestamp": "2026-08-31T04:05:45.830549+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (830 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-08-30T18:35:19.934636+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (24,718 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-08-30T18:35:18.330248+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (16,444 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-08-30T18:35:16.772407+00:00"
   }
 ]
