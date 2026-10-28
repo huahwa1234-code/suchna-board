@@ -2,6 +2,20 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "Any Graduate (30,278 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-28T09:06:31.431897+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (36,569 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-28T09:06:29.863666+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Post Graduate (6,064 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-10-28T08:35:56.653431+00:00"
@@ -34984,19 +34998,5 @@
     "title": "Upcoming Last Date Alerts(403 jobs closing this week)View All →",
     "link": "https://www.freejobalert.com/last-date-reminder/?utm_source=freejobalert_homepage&utm_medium=internal_banner&utm_campaign=last_date_reminder&utm_content=homepage_banner",
     "timestamp": "2026-08-29T19:05:32.121398+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Admit Card",
-    "title": "Admit Card - State Service Main Exam 2026",
-    "link": "https://mppsc.mponline.gov.in/Portal/Examinations/MPPSC/2026/Admitcard/SM26Login.aspx",
-    "timestamp": "2026-08-29T16:02:34.180398+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "NEHU M.A Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/nehu-ma-result-2026-out-check-2nd-semester-result-online-3065376",
-    "timestamp": "2026-08-29T13:05:29.699593+00:00"
   }
 ]
