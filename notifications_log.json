@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (31,241 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-29T09:06:20.059271+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,625 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-29T09:06:18.536383+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Kurukshetra University Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/kurukshetra-university-result-2026-out-check-ba-and-ma-result-online-3076764",
@@ -34984,19 +34998,5 @@
     "title": "Diploma (18,047 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-09-01T08:05:52.048638+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Pondicherry University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/pondicherry-university-result-2026-out-check-ballb-and-llb-result-online-3065644",
-    "timestamp": "2026-09-01T07:35:23.885675+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Punjab B.Ed First Merit List 2026 Out",
-    "link": "https://www.freejobalert.com/articles/punjab-bed-first-merit-list-2026-out-check-provisional-merit-list-3065629",
-    "timestamp": "2026-09-01T07:35:22.312278+00:00"
   }
 ]
