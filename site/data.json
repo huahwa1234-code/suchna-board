@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (30,564 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-30T11:44:01.790891+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (35,724 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-30T11:44:00.194198+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "AIAPGET PG Counselling Registration 2026",
     "link": "https://www.freejobalert.com/articles/aiapget-pg-counselling-registration-2026-3077153",
@@ -34984,19 +34998,5 @@
     "title": "AP NEET UG Counselling 2026 Round 1 Seat Allotment Result Out",
     "link": "https://www.freejobalert.com/articles/ap-neet-ug-counselling-2026-round-1-seat-allotment-result-out-check-result-online-3066011",
     "timestamp": "2026-09-03T05:05:30.951381+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "CGPSC SSE Interview Call Letter 2026",
-    "link": "https://www.freejobalert.com/articles/cgpsc-sse-interview-call-letter-2026-3066007",
-    "timestamp": "2026-09-03T05:05:29.430368+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (12,637 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-09-03T05:05:27.902282+00:00"
   }
 ]
