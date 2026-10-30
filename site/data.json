@@ -1,5 +1,19 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (35,482 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-30T10:06:15.347576+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "8TH (4,560 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
+    "timestamp": "2026-10-30T10:06:13.830096+00:00"
+  },
+  {
     "site": "UPPSC",
     "category": "Result",
     "title": "30 Nov2026RESULT OF ADVT. NO. 2/2020-2021, U.P. CHIKITSA SHIKSHA (HOMOEOPATHIC) DEPTT., LECTURER HOMOEOPATHIC PHARMACY, S-11/01",
@@ -34984,19 +34998,5 @@
     "title": "B.com (797 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
     "timestamp": "2026-09-02T13:35:23.935572+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (15,975 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-09-02T13:35:22.413111+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "ITI (14,832 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
-    "timestamp": "2026-09-02T13:35:20.897161+00:00"
   }
 ]
