@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (30,700 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-10-30T08:35:37.450674+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (9,462 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-10-30T08:35:35.878438+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (35,561 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-30T08:35:34.290225+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "RRB ALP CBT 1 Admit Card 2026 Out Today",
+    "link": "https://www.freejobalert.com/articles/rrb-alp-cbt-1-admit-card-2026-3077106",
+    "timestamp": "2026-10-30T08:35:32.708153+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "AEES Teacher Syllabus 2026",
     "link": "https://www.freejobalert.com/articles/aees-teacher-syllabus-and-exam-pattern-3077105",
@@ -34970,33 +34998,5 @@
     "title": "Recruitment Advertisement for Assistant Professor (Zoology) Exam 2025 (Higher Education Department - Government of Madhya Pradesh) (Advt. No./26/2025), Dated 30/12/2025",
     "link": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Zoology_Exam_2025_Dated_30_12_2025.pdf",
     "timestamp": "2026-09-02T13:32:24.424936+00:00"
-  },
-  {
-    "site": "MPPSC",
-    "category": "Vacancy",
-    "title": "Recruitment Advertisement for Assistant Professor (Computer Science) Exam 2025 (Higher Education Department - Government of Madhya Pradesh) (Advt. No./28/2025), Dated 30/12/2025",
-    "link": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Assistant_Professor_Computer_Science_Exam_2025_Dated_30_12_2025.pdf",
-    "timestamp": "2026-09-02T13:32:22.926432+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admission",
-    "title": "NEET UG 2026 Round 2 Counselling Registration",
-    "link": "https://www.freejobalert.com/articles/neet-ug-2026-round-2-counselling-registration-check-choice-filling-online-3065986",
-    "timestamp": "2026-09-02T13:05:36.382014+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "Mizoram PSC Nursing Officer & More Posts Provisional Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/mizoram-psc-nursing-officer-and-more-posts-provisional-answer-key-2026-3065978",
-    "timestamp": "2026-09-02T13:05:34.842446+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Mizoram PSC AAO and Other Posts Final Result 2026",
-    "link": "https://www.freejobalert.com/articles/mizoram-psc-aao-and-other-posts-final-result-2026-3065977",
-    "timestamp": "2026-09-02T13:05:33.308215+00:00"
   }
 ]
