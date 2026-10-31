@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (35,379 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-10-31T07:05:55.701208+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (34,199 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-10-31T07:05:54.005087+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (19,003 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-10-31T07:05:52.264628+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admission",
     "title": "Tamil Nadu NEET PG Counselling 2026 Schedule",
     "link": "https://www.freejobalert.com/articles/tamil-nadu-neet-pg-counselling-2026-schedule-3077485",
@@ -34977,26 +34998,5 @@
     "title": "APSC Forest Ranger Provisional Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/apsc-forest-ranger-provisional-answer-key-2026-3066223",
     "timestamp": "2026-09-04T08:05:38.163108+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "MTET Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/mtet-result-2026-3066224",
-    "timestamp": "2026-09-04T08:05:36.572568+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "MPPSC Veterinary Assistant Surgeon Result 2026",
-    "link": "https://www.freejobalert.com/articles/mppsc-veterinary-assistant-surgeon-result-2026-3066225",
-    "timestamp": "2026-09-04T08:05:34.978170+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "MP Apex Bank Result 2026",
-    "link": "https://www.freejobalert.com/articles/mp-apex-bank-result-2026-3066226",
-    "timestamp": "2026-09-04T08:05:33.375989+00:00"
   }
 ]
