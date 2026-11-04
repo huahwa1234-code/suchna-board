@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (31,111 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-04T08:35:31.782327+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (37,823 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-04T08:35:30.168024+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Answer Key",
     "title": "DSSSB Various Post Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/dsssb-various-post-answer-key-2026-3078488",
@@ -34984,19 +34998,5 @@
     "title": "OSSSC Nursing Officer Admit Card 2026",
     "link": "https://www.freejobalert.com/articles/osssc-nursing-officer-admit-card-2026-3067513",
     "timestamp": "2026-09-12T04:35:36.930555+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "ITI (13,026 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
-    "timestamp": "2026-09-12T04:35:35.231246+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (39,595 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-09-12T04:35:33.540583+00:00"
   }
 ]
