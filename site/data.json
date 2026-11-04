@@ -2,6 +2,34 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "ITI (16,377 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-11-04T19:35:55.817786+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (37,558 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-04T19:35:54.175862+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (37,178 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-11-04T19:35:52.558940+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (22,638 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-11-04T19:35:50.906610+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Post Graduate (6,638 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-11-04T19:05:59.268407+00:00"
@@ -34970,33 +34998,5 @@
     "title": "ITI (10,932 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
     "timestamp": "2026-09-15T05:35:17.962402+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (10,874 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-09-15T05:35:16.348953+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (38,950 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-09-15T05:35:14.836470+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Rajasthan University B.A.LL.B Revaluation Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/rajasthan-university-ballb-revaluation-result-2026-out-direct-link-to-check-10th-semester-result-3067631",
-    "timestamp": "2026-09-15T05:05:36.631064+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Bundelkhand University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/bundelkhand-university-result-2026-out-check-ug-and-pg-odd-semester-marksheet-3067636",
-    "timestamp": "2026-09-15T05:05:34.804443+00:00"
   }
 ]
