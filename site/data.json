@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (6,694 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-05T09:05:55.219690+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Andhra University Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/andhra-university-result-2026-out-check-ug-and-pg-result-online-3078860",
@@ -34991,12 +34998,5 @@
     "title": "IOB Apprentice Result 2026",
     "link": "https://www.freejobalert.com/articles/iob-apprentice-result-2026-out-check-provisional-selection-list-3067785",
     "timestamp": "2026-09-16T04:35:40.403865+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (11,369 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-09-15T19:16:40.835816+00:00"
   }
 ]
