@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (6,760 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-05T12:05:59.651042+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (29,248 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-05T12:05:58.104050+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (10,839 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-05T12:05:56.508255+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (38,651 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-05T12:05:54.933514+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "HNGU B.A Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/hngu-ba-result-2026-out-check-6th-semester-result-online-3078976",
@@ -34970,33 +34998,5 @@
     "title": "Any Graduate (11,377 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-09-16T08:35:19.629481+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (7,265 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-09-16T08:35:17.902528+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admission",
-    "title": "KNRUHS B.Sc Nursing 2YDC Admission 2026",
-    "link": "https://www.freejobalert.com/articles/knruhs-bsc-nursing-2ydc-admission-2026-check-post-basic-notification-pdf-3067829",
-    "timestamp": "2026-09-16T08:05:31.830826+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "KNRUHS MBBS Part-II Backlog Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/knruhs-mbbs-part-2-backlog-result-2026-out-check-final-result-online-3067832",
-    "timestamp": "2026-09-16T08:05:30.298587+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "MPPSC Assistant Registrar Result 2026",
-    "link": "https://www.freejobalert.com/articles/mppsc-assistant-registrar-result-2026-3067828",
-    "timestamp": "2026-09-16T08:05:28.763964+00:00"
   }
 ]
