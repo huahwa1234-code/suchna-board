@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,493 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-10T10:05:44.055487+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (12,199 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-10T10:05:42.494100+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "MCC NEET UG 2026 Allotment Result Out",
     "link": "https://www.freejobalert.com/articles/mcc-neet-ug-2026-special-stray-round-allotment-result-3079936",
@@ -34984,19 +34998,5 @@
     "title": "SSC JHT Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/ssc-jht-answer-key-2026-3068704",
     "timestamp": "2026-09-22T04:05:50.979042+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (16,256 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-09-22T04:05:49.224881+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (9,439 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-09-21T19:05:40.698510+00:00"
   }
 ]
