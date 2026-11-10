@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,494 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-10T11:06:01.127452+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Answer Key",
     "title": "MP Police SI Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/mp-police-si-answer-key-2026-3079947",
@@ -34991,12 +34998,5 @@
     "title": "Any Graduate (9,452 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-09-22T04:36:08.776599+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (7,304 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-09-22T04:36:07.189559+00:00"
   }
 ]
