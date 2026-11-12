@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "AP Special TET Result 2026 Soon",
+    "link": "https://www.freejobalert.com/articles/ap-special-tet-result-2026-3080513",
+    "timestamp": "2026-11-12T07:35:48.384859+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (41,702 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-12T07:35:46.664640+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (44,038 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-11-12T07:35:44.974448+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "ISC Class 12 Accountancy Exam Pattern 2027 Out",
     "link": "https://www.freejobalert.com/articles/isc-class-12-accountancy-exam-pattern-2027-out-check-section-wise-weightage-3080508",
@@ -34977,26 +34998,5 @@
     "title": "Diploma (10,478 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-09-24T08:38:25.656750+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (16,262 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-09-24T08:38:23.989016+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Tripura University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/tripura-university-result-2026-out-direct-link-to-check-imd-and-pg-results-online-3069260",
-    "timestamp": "2026-09-24T08:08:42.242894+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Bodoland University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/bodoland-university-result-2026-out-check-ug-and-pg-result-online-3069274",
-    "timestamp": "2026-09-24T08:08:40.461564+00:00"
   }
 ]
