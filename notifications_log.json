@@ -1,6 +1,55 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,857 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-14T05:55:18.385477+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,641 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-14T05:55:16.718884+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "ITI (19,494 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "timestamp": "2026-11-14T05:55:15.072959+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (41,533 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-14T05:55:13.422991+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (45,451 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-11-14T05:55:11.711330+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (33,045 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-11-14T05:55:10.072307+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(636 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-14T05:55:08.423917+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "JSSC Paramedical Staff Nurse Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/jssc-paramedical-staff-nurse-result-2026-3081209",
@@ -34949,54 +34998,5 @@
     "title": "AIIMS Gorakhpur Medical Officer Ayurveda Result 2026",
     "link": "https://www.freejobalert.com/articles/aiims-gorakhpur-medical-officer-ayurveda-result-2026-3070204",
     "timestamp": "2026-09-29T12:06:06.149573+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "UP Police Constable PET Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/up-police-constable-pet-admit-card-2026-3070210",
-    "timestamp": "2026-09-29T12:06:04.597179+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (2,445 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-09-29T12:06:03.059565+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (12,854 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-09-29T12:06:01.517083+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (5,727 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-09-29T12:05:59.783423+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (10,201 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-09-29T12:05:58.239811+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (15,994 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-09-29T12:05:56.680540+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "HNGU Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/hngu-result-2026-out-direct-link-to-check-ug-and-pg-result-online-3070199",
-    "timestamp": "2026-09-29T11:35:50.255955+00:00"
   }
 ]
