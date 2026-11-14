@@ -1,6 +1,34 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,947 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-14T12:36:19.729950+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,635 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-14T12:36:18.199495+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,440 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-14T12:36:16.648507+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (41,729 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-14T12:36:15.056910+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "AIBE 22 Admit Card 2026 Out Today",
     "link": "https://www.freejobalert.com/articles/aibe-22-admit-card-2026-3081259",
@@ -34970,33 +34998,5 @@
     "title": "Any Post Graduate (2,355 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-09-30T05:05:57.240370+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (9,505 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-09-30T05:05:55.520862+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Dr. M.G.R. Medical University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/dr-mgr-medical-university-result-2026-out-check-bds-and-bnys-result-online-3070251",
-    "timestamp": "2026-09-30T04:35:44.290690+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "RSSB LDC Final Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/rssb-ldc-final-answer-key-2026-3070250",
-    "timestamp": "2026-09-30T04:35:42.608103+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "UPSC Principal Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/upsc-principal-result-2026-3070249",
-    "timestamp": "2026-09-30T04:35:40.865589+00:00"
   }
 ]
