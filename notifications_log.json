@@ -1,5 +1,12 @@
 [
   {
+    "site": "IBPS",
+    "category": "Vacancy",
+    "title": "Window Notification for CRP-PO/MTs -XVI and SPL-XVI",
+    "link": "https://www.ibps.in/wp-content/uploads/PO_SPL_Combined_Window_CRP-XVI.pdf",
+    "timestamp": "2026-11-14T20:01:58.965504+00:00"
+  },
+  {
     "site": "FreeJobAlert",
     "category": "Vacancy",
     "title": "Any Post Graduate (8,897 Jobs)",
@@ -34991,12 +34998,5 @@
     "title": "Diploma (9,513 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-09-30T06:06:40.559881+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (16,150 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-09-30T06:06:39.018651+00:00"
   }
 ]
