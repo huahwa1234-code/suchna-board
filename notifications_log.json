@@ -1,5 +1,19 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,598 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-15T08:06:37.671417+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,418 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-15T08:06:36.011172+00:00"
+  },
+  {
     "site": "Sarkari Result",
     "category": "Admission",
     "title": "NTA SHRESTHA (NETS) Admission Online Form 2027",
@@ -34984,19 +34998,5 @@
     "title": "Telangana BiPC Final Phase Seat Allotment Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/telangana-bipc-final-phase-seat-allotment-result-2026-direct-link-to-check-status-online-3070090",
     "timestamp": "2026-09-30T06:06:49.830821+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "OSSSC Nursing Officer Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/osssc-nursing-officer-answer-key-2026-3070312",
-    "timestamp": "2026-09-30T06:06:48.277447+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Post Graduate (2,362 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
-    "timestamp": "2026-09-30T06:06:46.752939+00:00"
   }
 ]
