@@ -2,6 +2,13 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(768 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-15T17:06:39.769083+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Graduate (37,600 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-11-15T16:06:04.032138+00:00"
@@ -34991,12 +34998,5 @@
     "title": "Any Post Graduate (2,363 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-09-30T07:06:05.700454+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (13,238 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-09-30T07:06:03.932018+00:00"
   }
 ]
