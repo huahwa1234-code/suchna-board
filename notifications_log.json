@@ -1,5 +1,19 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (6,418 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-11-16T15:36:53.171778+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (12,648 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-16T15:36:51.655087+00:00"
+  },
+  {
     "site": "Sarkari Result",
     "category": "Answer Key",
     "title": "UPSSSC Pharmacists Ayurvedic 2024 Revised Answer Key",
@@ -34984,19 +34998,5 @@
     "title": "10TH (23,868 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
     "timestamp": "2026-10-01T11:05:48.863162+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Kerala University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/kerala-university-result-2026-out-direct-link-to-check-result-online-3070678",
-    "timestamp": "2026-10-01T10:35:59.266183+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Panjab University Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/panjab-university-result-2026-out-check-semester-results-3070684",
-    "timestamp": "2026-10-01T10:35:57.645330+00:00"
   }
 ]
