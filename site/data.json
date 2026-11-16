@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,552 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-16T08:36:24.990085+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,369 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-16T08:36:23.421085+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (12,592 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-16T08:36:21.849769+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "ICSI CSEET October 2026 Result Out",
     "link": "https://www.freejobalert.com/articles/icsi-cseet-october-2026-result-out-download-scorecard-3081404",
@@ -34977,26 +34998,5 @@
     "title": "Mizoram PSC Inspector and State Tax Officer Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/mizoram-psc-inspector-and-state-tax-officer-answer-key-2026-3070510",
     "timestamp": "2026-09-30T12:06:49.619204+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "MPPSC State Forest Service Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/mppsc-state-forest-service-answer-key-2026-3070511",
-    "timestamp": "2026-09-30T12:06:47.911765+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "MPCB Junior Stenographer Result 2026",
-    "link": "https://www.freejobalert.com/articles/mpcb-junior-stenographer-result-2026-3070505",
-    "timestamp": "2026-09-30T12:06:46.194276+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Kerala PSC Woman Police Constable Result 2026",
-    "link": "https://www.freejobalert.com/articles/kerala-psc-woman-police-constable-result-2026-3070506",
-    "timestamp": "2026-09-30T12:06:44.486621+00:00"
   }
 ]
