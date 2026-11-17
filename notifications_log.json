@@ -1,6 +1,48 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (6,419 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-11-17T13:36:19.376827+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (12,687 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-17T13:36:17.786733+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (41,475 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-17T13:36:16.206443+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (45,282 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-11-17T13:36:14.546202+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (33,753 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-11-17T13:36:12.954996+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(674 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-17T13:36:11.380685+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "MLSU M.A NEP Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/mlsu-3rd-year-result-2026-out-check-babed-result-online-3081530",
@@ -34956,47 +34998,5 @@
     "title": "Karnataka NEET UG 2026 Round 3 Seat Allotment Result Out",
     "link": "https://www.freejobalert.com/articles/karnataka-neet-ug-2026-round-3-seat-allotment-result-out-check-full-schedule-online-3070872",
     "timestamp": "2026-10-05T05:06:18.972585+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (7,200 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-05T05:06:17.413952+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Upcoming Last Date Alerts(442 jobs closing this week)View All →",
-    "link": "https://www.freejobalert.com/last-date-reminder/",
-    "timestamp": "2026-10-05T05:06:15.830887+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Rajasthan NEET UG Round 3 Merit List 2026 Out",
-    "link": "https://www.freejobalert.com/articles/rajasthan-neet-ug-round-3-merit-list-2026-out-download-pdf-online-3070862",
-    "timestamp": "2026-10-05T04:35:52.896827+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "ICAR AIEEA PG Round 1 Seat Allotment Result 2026",
-    "link": "https://www.freejobalert.com/articles/icar-aieea-pg-round-1-seat-allotment-result-2026-check-status-online-3070855",
-    "timestamp": "2026-10-05T04:35:51.235195+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Answer Key",
-    "title": "KEA Land Surveyor Answer Key 2026",
-    "link": "https://www.freejobalert.com/articles/kea-land-surveyor-answer-key-2026-3070857",
-    "timestamp": "2026-10-05T04:35:49.570064+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "UP Home Guard Final Result 2026",
-    "link": "https://www.freejobalert.com/articles/up-home-guard-final-result-2026-3070863",
-    "timestamp": "2026-10-05T04:35:47.914871+00:00"
   }
 ]
