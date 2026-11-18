@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,471 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-18T08:06:19.658798+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,192 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-18T08:06:18.147395+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(698 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-18T08:06:16.564290+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "SKMU UG (NEP-2020) Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/skmu-ug-nep-2020-result-2026-out-download-provisional-result-pdf-online-3082138",
@@ -34977,26 +34998,5 @@
     "title": "Diploma (8,841 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-10-06T04:06:16.528880+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (12,354 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-10-05T19:06:09.584129+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (7,815 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-05T19:06:08.009903+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "ITI (10,090 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
-    "timestamp": "2026-10-05T19:06:06.447334+00:00"
   }
 ]
