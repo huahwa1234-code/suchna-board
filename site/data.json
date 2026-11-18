@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,201 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-18T09:06:43.586076+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "TOSS SSC, Intermediate Results 2026 Out",
     "link": "https://www.freejobalert.com/articles/toss-ssc-intermediate-results-2026-out-download-result-online-3082171",
@@ -34991,12 +34998,5 @@
     "title": "Rajasthan SET Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/rajasthan-set-answer-key-2026-3071058",
     "timestamp": "2026-10-06T04:35:51.391876+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (12,391 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-10-06T04:35:49.727131+00:00"
   }
 ]
