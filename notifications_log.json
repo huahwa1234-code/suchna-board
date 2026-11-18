@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,637 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-18T13:36:06.952607+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,268 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-18T13:36:05.399748+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Syllabus",
     "title": "CBSE Class 10 Exam Pattern 2026-27",
     "link": "https://www.freejobalert.com/articles/cbse-class-10-exam-pattern-2026-27-out-check-subject-wise-marks-3082338",
@@ -34984,19 +34998,5 @@
     "title": "10TH (24,340 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
     "timestamp": "2026-10-06T10:35:49.070598+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Upcoming Last Date Alerts(363 jobs closing this week)View All →",
-    "link": "https://www.freejobalert.com/last-date-reminder/",
-    "timestamp": "2026-10-06T10:35:47.442566+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Jiwaji University M.P.Ed Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/jiwaji-university-mped-result-2026-out-check-2nd-semester-result-online-3071195",
-    "timestamp": "2026-10-06T10:06:30.491085+00:00"
   }
 ]
