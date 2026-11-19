@@ -1,5 +1,26 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,145 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-19T16:53:14.413626+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (36,952 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-19T16:53:12.819064+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (41,364 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-11-19T16:53:11.219311+00:00"
+  },
+  {
     "site": "Sarkari Result",
     "category": "Answer Key",
     "title": "SSC Junior Engineer JE Answer Key 2026",
@@ -34977,26 +34998,5 @@
     "title": "ITI (7,732 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
     "timestamp": "2026-10-08T06:06:04.373071+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (9,919 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-10-08T06:06:02.710465+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (12,464 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-10-08T06:06:01.035199+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (18,512 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-10-08T06:05:59.377947+00:00"
   }
 ]
