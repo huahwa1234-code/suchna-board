@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,910 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-19T08:36:36.962972+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "Haryana NMMSS Admit Card 2026 Out",
     "link": "https://www.freejobalert.com/articles/haryana-nmmss-admit-card-2026-out-download-hall-ticket-online-3082574",
@@ -34991,12 +34998,5 @@
     "title": "AP LAWCET/ PGLCET Phase 1 Seat Allotment Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/ap-lawcet-pglcet-phase-1-seat-allotment-result-2026-check-status-online-3070868",
     "timestamp": "2026-10-07T08:06:26.512932+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "West Bengal NEET UG 2026 Round 3 Seat Allotment Result",
-    "link": "https://www.freejobalert.com/articles/west-bengal-neet-ug-2026-round-3-seat-allotment-3071501",
-    "timestamp": "2026-10-07T08:06:24.951450+00:00"
   }
 ]
