@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,364 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-20T05:06:28.625614+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,971 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-20T05:06:27.091735+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Dr. MGR Medical University Results 2026 Out",
     "link": "https://www.freejobalert.com/articles/dr-mgr-medical-university-results-2026-out-check-md-ms-diploma-result-online-3082867",
@@ -34984,19 +34998,5 @@
     "title": "Any Post Graduate (1,976 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-10-08T08:35:50.816880+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (15,468 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-10-08T08:35:49.153080+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.com (535 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
-    "timestamp": "2026-10-08T08:35:47.485741+00:00"
   }
 ]
