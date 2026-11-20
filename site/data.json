@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "GGSGH Junior Resident Offline Form 2026 (21 Vacancy)",
+    "link": "https://www.freejobalert.com/articles/ggsgh-junior-resident-recruitment-2026-3083255",
+    "timestamp": "2026-11-20T13:35:46.659960+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (14,042 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-20T13:35:44.859698+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "OSSSC Excise Constable PET Admit Card 2026",
     "link": "https://www.freejobalert.com/articles/osssc-excise-constable-pet-admit-card-2026-3083242",
@@ -34984,19 +34998,5 @@
     "title": "12TH (12,250 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
     "timestamp": "2026-10-09T12:35:48.676094+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (19,169 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-10-09T12:35:47.005570+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "JKSSB Junior Laboratory Technician & Driver Admit Card 2026",
-    "link": "https://www.freejobalert.com/articles/jkssb-junior-laboratory-technician-and-driver-admit-card-2026-3072393",
-    "timestamp": "2026-10-09T12:06:03.057617+00:00"
   }
 ]
