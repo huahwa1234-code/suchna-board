@@ -1,5 +1,19 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (37,144 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-20T15:06:21.382051+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (6,402 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-11-20T15:06:19.738303+00:00"
+  },
+  {
     "site": "UPPSC",
     "category": "Result",
     "title": "20 Dec2026RESULT OF ADVT. NO. D-1/E-1/2026, MEDICAL EDUCATION DEPARTMENT U.P. (ALLOPATHY) / PROFESSOR GENERAL SURGERY, S-08/11...",
@@ -34984,19 +34998,5 @@
     "title": "Diploma (9,592 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-10-09T13:35:48.704171+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "8TH (3,319 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
-    "timestamp": "2026-10-09T13:35:47.020561+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (19,379 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-10-09T13:35:45.352899+00:00"
   }
 ]
