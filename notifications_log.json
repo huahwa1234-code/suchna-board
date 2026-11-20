@@ -1,5 +1,12 @@
 [
   {
+    "site": "IBPS",
+    "category": "Result",
+    "title": "Result Status of Online Main Examination for CRP-PO/MTs-XVI",
+    "link": "http://ibpsreg.ibps.in/crppoxvijun26/fresta_nov26/login.php?appid=faa539a0e8fbd226743a6f2df8768c59",
+    "timestamp": "2026-11-20T11:31:38.540632+00:00"
+  },
+  {
     "site": "FreeJobAlert",
     "category": "Result",
     "title": "WB HS Semester 3 Result 2027",
@@ -34991,12 +34998,5 @@
     "title": "Any Post Graduate (2,100 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-10-09T06:34:10.549313+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (15,660 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-10-09T06:34:08.990647+00:00"
   }
 ]
