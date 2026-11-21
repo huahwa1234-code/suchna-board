@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Admit Card",
+    "title": "CLAT Admit Card 2027 Out",
+    "link": "https://www.freejobalert.com/articles/clat-admit-card-2027-out-download-link-and-exam-date-online-3083387",
+    "timestamp": "2026-11-21T06:36:02.110365+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (36,888 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-21T06:36:00.559214+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,905 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-21T06:35:58.993485+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Answer Key",
     "title": "GSSSB Multi Purpose Health Worker Answer Key 2026",
     "link": "https://www.freejobalert.com/articles/gsssb-multi-purpose-health-worker-answer-key-2026-3083379",
@@ -34977,26 +34998,5 @@
     "title": "B.com (608 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
     "timestamp": "2026-10-10T10:06:05.096664+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (8,783 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-10T10:06:03.398150+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (9,611 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-10-10T10:06:01.578724+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (20,883 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-10-10T10:05:59.851128+00:00"
   }
 ]
