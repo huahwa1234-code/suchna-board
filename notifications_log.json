@@ -2,6 +2,13 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(642 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-21T16:36:15.812554+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Graduate (36,975 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-11-21T15:36:21.345213+00:00"
@@ -34991,12 +34998,5 @@
     "title": "Diploma (9,411 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
     "timestamp": "2026-10-12T07:06:37.598822+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "10TH (20,706 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
-    "timestamp": "2026-10-12T07:06:35.892420+00:00"
   }
 ]
