@@ -1,5 +1,33 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Result",
+    "title": "SGBAU Result 2026 Out",
+    "link": "https://www.freejobalert.com/articles/sgbau-back-result-winter-2026-out-check-ug-pg-and-diploma-result-online-3083366",
+    "timestamp": "2026-11-21T12:06:12.559174+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (8,557 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-21T12:06:10.790982+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (13,953 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-21T12:06:09.088166+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "12TH (44,711 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "timestamp": "2026-11-21T12:06:07.258694+00:00"
+  },
+  {
     "site": "Sarkari Result",
     "category": "Admission",
     "title": "CLAT Common Law Admission Test Amit Card Available 2027",
@@ -34970,33 +34998,5 @@
     "title": "Any Graduate (15,557 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-10-12T05:35:52.929270+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (8,670 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-12T05:35:51.373645+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "ITI (6,649 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
-    "timestamp": "2026-10-12T05:35:49.811525+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (9,407 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-10-12T05:35:48.231656+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "12TH (12,747 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
-    "timestamp": "2026-10-12T05:35:46.684018+00:00"
   }
 ]
