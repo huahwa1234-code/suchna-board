@@ -2,6 +2,13 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(691 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-22T18:06:24.395501+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Post Graduate (8,408 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-11-22T15:36:05.703936+00:00"
@@ -34991,12 +34998,5 @@
     "title": "Upcoming Last Date Alerts(531 jobs closing this week)View All →",
     "link": "https://www.freejobalert.com/last-date-reminder/",
     "timestamp": "2026-10-12T10:06:40.513947+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (8,764 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-12T09:36:33.786405+00:00"
   }
 ]
