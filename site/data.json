@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (36,832 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-23T12:06:35.933470+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "10TH (25,610 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
+    "timestamp": "2026-11-23T12:06:34.214505+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "Maa Shakumbhari University Admit Card 2026 Out",
     "link": "https://www.freejobalert.com/articles/maa-shakumbhari-university-admit-card-2026-out-download-bsc-ag-1st-and-odd-semester-hall-ticket-3083877",
@@ -34984,19 +34998,5 @@
     "title": "10TH (20,602 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
     "timestamp": "2026-10-13T08:36:11.051814+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Upcoming Last Date Alerts(481 jobs closing this week)View All →",
-    "link": "https://www.freejobalert.com/last-date-reminder/",
-    "timestamp": "2026-10-13T08:36:09.298664+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "HPPSC Assistant Professor SAT Result 2026",
-    "link": "https://www.freejobalert.com/articles/hppsc-assistant-professor-sat-result-2026-3073136",
-    "timestamp": "2026-10-13T08:06:30.441272+00:00"
   }
 ]
