@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (5,235 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-25T09:06:13.847605+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.com (6,881 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-11-25T09:06:12.321562+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (39,444 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-25T09:06:10.782728+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "Calicut University Revaluation Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/calicut-university-revaluation-result-2026-out-check-bhm-result-3084408",
@@ -34977,26 +34998,5 @@
     "title": "OSSTET Result 2026 Soon",
     "link": "https://www.freejobalert.com/articles/osstet-score-card-2026-3073765",
     "timestamp": "2026-10-15T08:06:27.419631+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "MPHC Assistant Grade 3 Admit Card 2026 Soon",
-    "link": "https://www.freejobalert.com/articles/mphc-assistant-grade-3-admit-card-2026-3073763",
-    "timestamp": "2026-10-15T08:06:25.747188+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (9,913 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-15T08:06:24.057574+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Tripura High Court Senior Computer Assistant Result 2026",
-    "link": "https://www.freejobalert.com/articles/tripura-high-court-senior-computer-assistant-result-2026-3073741",
-    "timestamp": "2026-10-15T07:36:12.879861+00:00"
   }
 ]
