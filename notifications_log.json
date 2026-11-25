@@ -1,6 +1,27 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Post Graduate (5,293 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "timestamp": "2026-11-25T06:36:12.412648+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (11,481 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-25T06:36:10.845882+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Upcoming Last Date Alerts(878 jobs closing this week)View All →",
+    "link": "https://www.freejobalert.com/last-date-reminder/",
+    "timestamp": "2026-11-25T06:36:09.273118+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "BCECEB Seat Allotment Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/bceceb-seat-allotment-result-2026-out-check-pgdac-stray-vacancy-round-and-pgmac-ayurveda-round-1-3084310",
@@ -34977,26 +34998,5 @@
     "title": "Punjabi University Patiala Result 2026 Out",
     "link": "https://www.freejobalert.com/articles/punjabi-university-patiala-result-2026-out-check-ug-and-pg-result-online-3073660",
     "timestamp": "2026-10-15T04:34:59.819433+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admission",
-    "title": "Kerala PG Dental Admission 2026",
-    "link": "https://www.freejobalert.com/articles/kerala-pg-dental-admission-2026-round-3-option-entry-3073654",
-    "timestamp": "2026-10-15T04:34:58.145729+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Bihar UGMAC Round 3 Seat Allotment Result 2026 Out",
-    "link": "https://www.freejobalert.com/articles/bihar-ugmac-round-3-provisional-seat-allotment-result-2026-3072701",
-    "timestamp": "2026-10-15T04:06:40.706797+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "MH SET Admit Card 2026 Out Today",
-    "link": "https://www.freejobalert.com/articles/mh-set-admit-card-2026-3072848",
-    "timestamp": "2026-10-15T04:06:38.947729+00:00"
   }
 ]
