@@ -1,6 +1,13 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (32,669 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-27T13:36:02.020093+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Result",
     "title": "IBPS CRP PO MT XVI Mains Score Card 2026",
     "link": "https://www.freejobalert.com/articles/ibps-crp-po-mt-xvi-mains-score-card-2026-3085424",
@@ -34991,12 +34998,5 @@
     "title": "Any Post Graduate (3,688 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-10-21T18:59:46.629059+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Any Graduate (11,730 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
-    "timestamp": "2026-10-21T18:59:45.101623+00:00"
   }
 ]
