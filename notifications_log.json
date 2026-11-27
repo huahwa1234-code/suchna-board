@@ -1,5 +1,26 @@
 [
   {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (32,676 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-27T14:06:53.054009+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (11,946 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-27T14:06:51.505388+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (37,874 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-27T14:06:50.008410+00:00"
+  },
+  {
     "site": "Sarkari Result",
     "category": "Admit Card",
     "title": "Bihar BSSC Stenographer Admit Card 2026",
@@ -34977,26 +34998,5 @@
     "title": "10TH (16,137 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/10th-pass-government-jobs/",
     "timestamp": "2026-10-22T04:35:45.380241+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "MPPSC ADPO Admit Card 2026 Out",
-    "link": "https://www.freejobalert.com/articles/mppsc-adpo-admit-card-2026-3074637",
-    "timestamp": "2026-10-22T04:06:01.621893+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Admit Card",
-    "title": "ISRO ICRB Admit Card 2026 Out Today",
-    "link": "https://www.freejobalert.com/articles/isro-icrb-scientist-engineer-admit-card-2026-3074903",
-    "timestamp": "2026-10-22T04:05:59.905184+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (9,097 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-22T04:05:58.202906+00:00"
   }
 ]
