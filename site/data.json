@@ -1,6 +1,20 @@
 [
   {
     "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Any Graduate (32,575 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
+    "timestamp": "2026-11-27T08:06:20.506963+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "Diploma (37,814 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "timestamp": "2026-11-27T08:06:18.910759+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
     "category": "Admit Card",
     "title": "JBU Admit Card 2026 Out",
     "link": "https://www.freejobalert.com/articles/jbu-admit-card-2026-out-check-odd-semester-hall-ticket-online-3085239",
@@ -34984,19 +34998,5 @@
     "title": "Upcoming Last Date Alerts(485 jobs closing this week)View All →",
     "link": "https://www.freejobalert.com/last-date-reminder/",
     "timestamp": "2026-10-21T07:35:45.678168+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Dr. SN Medical College Cutoff 2026",
-    "link": "https://www.freejobalert.com/articles/dr-sn-medical-college-cutoff-2026-3074671",
-    "timestamp": "2026-10-21T07:06:34.358209+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Result",
-    "title": "Sardar Patel Medical College Cutoff 2026",
-    "link": "https://www.freejobalert.com/articles/sardar-patel-medical-college-cutoff-2026-3074663",
-    "timestamp": "2026-10-21T07:06:32.772595+00:00"
   }
 ]
