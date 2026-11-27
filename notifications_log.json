@@ -2,6 +2,20 @@
   {
     "site": "FreeJobAlert",
     "category": "Vacancy",
+    "title": "B.com (5,738 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "timestamp": "2026-11-27T09:36:27.441222+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
+    "title": "B.Tech/B.E (11,900 Jobs)",
+    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "timestamp": "2026-11-27T09:36:25.837430+00:00"
+  },
+  {
+    "site": "FreeJobAlert",
+    "category": "Vacancy",
     "title": "Any Post Graduate (5,375 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
     "timestamp": "2026-11-27T09:06:11.441192+00:00"
@@ -34984,19 +34998,5 @@
     "title": "Any Graduate (11,465 Jobs)",
     "link": "https://www.freejobalert.com/search-jobs/any-graduate-government-jobs/",
     "timestamp": "2026-10-21T08:35:40.360498+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "B.Tech/B.E (9,089 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
-    "timestamp": "2026-10-21T08:35:38.776510+00:00"
-  },
-  {
-    "site": "FreeJobAlert",
-    "category": "Vacancy",
-    "title": "Diploma (12,699 Jobs)",
-    "link": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
-    "timestamp": "2026-10-21T08:35:37.191752+00:00"
   }
 ]
